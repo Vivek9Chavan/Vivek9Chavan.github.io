@@ -17,5 +17,4 @@ I’m a PhD researcher working on industrial automation, egocentric AI, and robo
 
 ## 📫 Contact
 
-- Email: you@example.com
 - [LinkedIn](https://www.linkedin.com/in/vivek9chavan/)
