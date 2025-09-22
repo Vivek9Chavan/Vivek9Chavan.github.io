@@ -7,7 +7,7 @@ title: Vivek Chavan
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 180px;">
+  <div style="flex: 1; min-width: 240px;">
     <img src="https://github.com/user-attachments/assets/0c18923f-6d38-4312-ae43-9f4e4c7764ad" alt="Vivek_01" style="max-width: 100%; border-radius: 12px;">
   </div>
 
