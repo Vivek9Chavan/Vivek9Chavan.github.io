@@ -102,8 +102,8 @@ title: Vivek Chavan
   <li>
     Chavan, V., Imgrund, Y., Dao, T., Bai, S., Wang, B., Lu, Z., Heimann, O., & Krüger, J. (2025).  
     <em>IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants</em>.  
-    In: <strong>Advances in Neural Information Processing Systems (NeurIPS)</strong>.  
-    🔗 <a href="https://openreview.net/forum?id=jKw3Qhc8m1" target="_blank" rel="noopener">OpenReview</a> · 💿 <a href="[DATASET-LINK]" target="_blank" rel="noopener">Dataset</a>
+    In: <strong>Advances in Neural Information Processing Systems (NeurIPS 2025)</strong>.  
+    🔗 <a href="https://neurips.cc/virtual/2025/poster/121501" target="_blank" rel="noopener">Conference Page</a> · 💿 <a href="[DATASET-LINK]" target="_blank" rel="noopener">Dataset</a>
   </li>
 
   <li>
