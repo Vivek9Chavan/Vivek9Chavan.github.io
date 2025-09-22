@@ -98,10 +98,7 @@ title: Vivek Chavan
   </li>
   <br />
 
-  <li>
-    🤝 <strong>Volunteer Activity</strong><br />
-    Supported academic/industry collaboration events as a session helper and mentor — <em>[Add year/location]</em>
-  </li>
+
 </ul>
 
 <hr style="margin: 2em 0;" />
