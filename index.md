@@ -37,7 +37,7 @@ title: Vivek Chavan
 
 <hr style="margin: 2em 0;" />
 
-# 🎤 Talks, Presentations & Activities
+## 🎤 Talks, Presentations & Activities
 
 <ul>
   <li>
@@ -45,6 +45,7 @@ title: Vivek Chavan
     <em>Developing Industrial Egocentric Assistants: Integrating Continual Learning, Data Management, and Multimodal Understanding</em><br />
     Center for Artificial Intelligence, Paris — <em>April 2025</em>
   </li>
+  <br />
 
   <li>
     <strong>Podcast Interview — Heise Online (KI-Update)</strong><br />
@@ -52,41 +53,50 @@ title: Vivek Chavan
     KI-Update Deep-Dive: “AI glasses in industry” — <em>29 March 2025</em><br />
     🔗 <a href="https://www.heise.de/news/KI-Update-Deep-Dive-KI-Brillen-helfen-in-der-Industrie-9670746.html" target="_blank" rel="noopener">Heise Online</a>
   </li>
+  <br />
 
   <li>
     <strong>Berlin Science Week — Invited Research Talk & Demo</strong><br />
     Public presentation of ongoing research — <em>November 2024</em>
   </li>
+  <br />
 
   <li>
     <strong>Science Slam Hamburg — Winner</strong><br />
     Top-rated talk (≈200 audience) on Artificial Intelligence — <em>July 2024</em>
   </li>
+  <br />
 
   <li>
     <strong>Control Trade Fair — Technology Demonstration</strong><br />
-    Represented the Machine Vision team with live demos (anomaly detection, object detection, egocentric vision), Stuttgart — <em>April 2024</em>
+    Represented the Machine Vision team with live demos (anomaly detection, object detection, egocentric vision).<br />
+    Stuttgart — <em>April 2024</em>
   </li>
+  <br />
 
   <li>
     <strong>Fraunhofer Vision Session — Technical Talk</strong><br />
     Industrial continual learning with a focus on energy consumption and computational footprint — <em>November 2023</em>
   </li>
+  <br />
 
   <li>
     <strong>VisionRead Talks — Internal Knowledge-Sharing</strong><br />
     Six talks covering recent research in Computer Vision & AI — <em>2023–2024</em>
   </li>
+  <br />
 
   <li>
     🏆 <strong>Winner — AI Grid Hackathon</strong><br />
     Developed novel solutions for sustainable AI in industry during an international hackathon challenge — <em>September 2024</em>
   </li>
+  <br />
 
   <li>
     🛠 <strong>Workshop Participation</strong><br />
     Attended and contributed to AI Grid Summer School workshops on computer vision, time series forecasting, and prompt engineering — <em>September 2024</em>
   </li>
+  <br />
 
   <li>
     🤝 <strong>Volunteer Activity</strong><br />
@@ -96,48 +106,73 @@ title: Vivek Chavan
 
 <hr style="margin: 2em 0;" />
 
-# 📄 Publications
+# 📄 First-Author Publications
 
 <ul>
   <li>
-    Chavan, V., Imgrund, Y., Dao, T., Bai, S., Wang, B., Lu, Z., Heimann, O., & Krüger, J. (2025).  
-    <em>IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants</em>.  
-    In: <strong>Advances in Neural Information Processing Systems (NeurIPS 2025)</strong>.  
-    🔗 <a href="https://neurips.cc/virtual/2025/poster/121501" target="_blank" rel="noopener">Conference Page</a> · 💿 <a href="[[DATASET-LINK](https://vivekchavan.com/IndEgo/)]" target="_blank" rel="noopener">Dataset</a>
+    <strong>Chavan, V.</strong>, Imgrund, Y., Dao, T., Bai, S., Wang, B., Lu, Z., Heimann, O., & Krüger, J. (2025).<br />
+    <em>IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants</em>.<br />
+    In: <strong>Advances in Neural Information Processing Systems (NeurIPS 2025)</strong>.<br />
+    🔗 <a href="https://neurips.cc/virtual/2025/poster/121501" target="_blank" rel="noopener">Conference Page</a>
   </li>
+  <br />
 
   <li>
-    Chavan, V., Cenaj, A., Shen, S., Bar, A., Binwani, S., Del Becaro, T., Funk, M., Greschner, L., Hung, R., Klein, S., Kleiner, R., Krause, S., Olbrych, S., Parmar, V., Sarafraz, J., Soroko, D., Withanage Don, D., Zhou, C., Vu, H.T.D., Semnani, P., Weinhardt, D., André, E., Krüger, J., & Fresquet, X. (2025).  
-    <em>Feeling Machines: Ethics, Culture, and the Rise of Emotional AI</em>.  
-    <strong>arXiv preprint</strong>.  
+    <strong>Chavan, V.</strong>, Cenaj, A., Shen, S., Bar, A., Binwani, S., Del Becaro, T., Funk, M., Greschner, L., Hung, R., Klein, S., Kleiner, R., Krause, S., Olbrych, S., Parmar, V., Sarafraz, J., Soroko, D., Withanage Don, D., Zhou, C., Vu, H.T.D., Semnani, P., Weinhardt, D., André, E., Krüger, J., & Fresquet, X. (2025).<br />
+    <em>Feeling Machines: Ethics, Culture, and the Rise of Emotional AI</em>.<br />
+    <strong>arXiv preprint</strong>.<br />
     🔗 <a href="https://arxiv.org/abs/2506.12437" target="_blank" rel="noopener">arXiv</a>
   </li>
+  <br />
 
   <li>
-    Chavan, V., Heimann, O., & Krüger, J. (2024).  
-    <em>On the Application of Egocentric Computer Vision to Industrial Inspection</em>.  
-    In: <strong>ECCV 2024 Workshops</strong>.  
-    📥 <a href="[https://link.springer.com/chapter/10.1007/978-3-031-92805-5_1]" target="_blank" rel="noopener">PDF</a>
+    <strong>Chavan, V.</strong>, Heimann, O., & Krüger, J. (2024).<br />
+    <em>On the Application of Egocentric Computer Vision to Industrial Inspection</em>.<br />
+    In: <strong>ECCV 2024 Workshops</strong>.<br />
+    🔗 <a href="https://link.springer.com/chapter/10.1007/978-3-031-92805-5_1" target="_blank" rel="noopener">Springer Link</a>
   </li>
+  <br />
 
   <li>
-    Chavan, V., Heimann, O., & Krüger, J. (2024).  
-    <em>A System 1 and System 2 Perspective on Continual Learning for Practical Implementation</em>.  
-    In: <strong>ECCV 2024 Workshops</strong>.  
-    📥 <a href="[[PDF-LINK](https://link.springer.com/chapter/10.1007/978-3-031-91578-9_25)]" target="_blank" rel="noopener">PDF</a>
+    <strong>Chavan, V.</strong>, Heimann, O., & Krüger, J. (2024).<br />
+    <em>A System 1 and System 2 Perspective on Continual Learning for Practical Implementation</em>.<br />
+    In: <strong>ECCV 2024 Workshops</strong>.<br />
+    🔗 <a href="https://link.springer.com/chapter/10.1007/978-3-031-91578-9_25" target="_blank" rel="noopener">Springer Link</a>
   </li>
+  <br />
 
   <li>
-    Chavan, V., Koch, P., Schlüter, M., Briese, C., & Krüger, J. (2024).  
-    <em>Active Data Collection and Management for Real-World Continual Learning via Pretrained Oracle</em>.  
-    In: <strong>CVPR 2024 Workshops</strong>, pp. 4085–4096.  
-    📥 <a href="[https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/html/Chavan_Active_Data_Collection_and_Management_for_Real-World_Continual_Learning_via_CVPRW_2024_paper.html]" target="_blank" rel="noopener">PDF</a>
+    <strong>Chavan, V.</strong>, Koch, P., Schlüter, M., Briese, C., & Krüger, J. (2024).<br />
+    <em>Active Data Collection and Management for Real-World Continual Learning via Pretrained Oracle</em>.<br />
+    In: <strong>CVPR 2024 Workshops</strong>.<br />
+    🔗 <a href="https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/html/Chavan_Active_Data_Collection_and_Management_for_Real-World_Continual_Learning_via_CVPRW_2024_paper.html" target="_blank" rel="noopener">CVPR OpenAccess</a>
   </li>
+  <br />
 
   <li>
-    Chavan, V., Koch, P., Schlüter, M., & Briese, C. (2023).  
-    <em>Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint</em>.  
-    In: <strong>ICCV 2023</strong>, pp. 11506–11518.  
-    📥 <a href="[https://www.computer.org/csdl/proceedings-article/iccv/2023/071800l1472/1TJiKOmxmJG]" target="_blank" rel="noopener">PDF</a>
+    <strong>Chavan, V.</strong>, Koch, P., Schlüter, M., & Briese, C. (2023).<br />
+    <em>Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint</em>.<br />
+    In: <strong>ICCV 2023</strong>.<br />
+    🔗 <a href="https://www.computer.org/csdl/proceedings-article/iccv/2023/071800l1472/1TJiKOmxmJG" target="_blank" rel="noopener">IEEE Xplore</a>
+  </li>
+</ul>
+
+<hr style="margin: 2em 0;" />
+
+## 💿 Datasets
+
+<ul>
+  <li>
+    <strong>IndEgo</strong> — Coming soon  
+    <br />
+    A large-scale dataset of industrial scenarios and collaborative work for egocentric assistants.  
+  </li>
+  <br />
+
+  <li>
+    <strong>InVar-100</strong>  
+    <br />
+    A dataset of industrial objects in varied contexts.  
+    🔗 <a href="https://huggingface.co/datasets/vivek9chavan/InVar-100" target="_blank" rel="noopener">Hugging Face</a>
   </li>
 </ul>
