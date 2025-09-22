@@ -19,9 +19,9 @@ title: Vivek Chavan
     <ul>
       <li>🏭 Industrial Automation</li>
       <li>🎥 Egocentric AI</li>
-      <li>📉 Data Efficiency AI</li>
+      <li>📉 Data Efficiency</li>
       <li>🧠 Continual Learning</li>
-      <li>🔀 Multimodality AI</li>
+      <li>🔀 Multimodality</li>
       <li>🤖 Robotics AI</li>
     </ul>
   </div>
