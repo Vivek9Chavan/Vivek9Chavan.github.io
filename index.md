@@ -103,7 +103,7 @@ title: Vivek Chavan
     Chavan, V., Imgrund, Y., Dao, T., Bai, S., Wang, B., Lu, Z., Heimann, O., & Krüger, J. (2025).  
     <em>IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants</em>.  
     In: <strong>Advances in Neural Information Processing Systems (NeurIPS 2025)</strong>.  
-    🔗 <a href="https://neurips.cc/virtual/2025/poster/121501" target="_blank" rel="noopener">Conference Page</a> · 💿 <a href="[DATASET-LINK]" target="_blank" rel="noopener">Dataset</a>
+    🔗 <a href="https://neurips.cc/virtual/2025/poster/121501" target="_blank" rel="noopener">Conference Page</a> · 💿 <a href="[[DATASET-LINK](https://vivekchavan.com/IndEgo/)]" target="_blank" rel="noopener">Dataset</a>
   </li>
 
   <li>
@@ -117,27 +117,27 @@ title: Vivek Chavan
     Chavan, V., Heimann, O., & Krüger, J. (2024).  
     <em>On the Application of Egocentric Computer Vision to Industrial Inspection</em>.  
     In: <strong>ECCV 2024 Workshops</strong>.  
-    📥 <a href="[PDF-LINK]" target="_blank" rel="noopener">PDF</a>
+    📥 <a href="[https://link.springer.com/chapter/10.1007/978-3-031-92805-5_1]" target="_blank" rel="noopener">PDF</a>
   </li>
 
   <li>
     Chavan, V., Heimann, O., & Krüger, J. (2024).  
     <em>A System 1 and System 2 Perspective on Continual Learning for Practical Implementation</em>.  
     In: <strong>ECCV 2024 Workshops</strong>.  
-    📥 <a href="[PDF-LINK]" target="_blank" rel="noopener">PDF</a>
+    📥 <a href="[[PDF-LINK](https://link.springer.com/chapter/10.1007/978-3-031-91578-9_25)]" target="_blank" rel="noopener">PDF</a>
   </li>
 
   <li>
     Chavan, V., Koch, P., Schlüter, M., Briese, C., & Krüger, J. (2024).  
     <em>Active Data Collection and Management for Real-World Continual Learning via Pretrained Oracle</em>.  
     In: <strong>CVPR 2024 Workshops</strong>, pp. 4085–4096.  
-    📥 <a href="[PDF-LINK]" target="_blank" rel="noopener">PDF</a>
+    📥 <a href="[https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/html/Chavan_Active_Data_Collection_and_Management_for_Real-World_Continual_Learning_via_CVPRW_2024_paper.html]" target="_blank" rel="noopener">PDF</a>
   </li>
 
   <li>
     Chavan, V., Koch, P., Schlüter, M., & Briese, C. (2023).  
     <em>Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint</em>.  
     In: <strong>ICCV 2023</strong>, pp. 11506–11518.  
-    📥 <a href="[PDF-LINK]" target="_blank" rel="noopener">PDF</a>
+    📥 <a href="[https://www.computer.org/csdl/proceedings-article/iccv/2023/071800l1472/1TJiKOmxmJG]" target="_blank" rel="noopener">PDF</a>
   </li>
 </ul>
