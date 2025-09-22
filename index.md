@@ -40,6 +40,13 @@ title: Vivek Chavan
 ## 🎤 Talks, Presentations & Activities
 
 <ul>
+    <li>
+    🏆 <strong>Winner — Food Waste Detection Hackathon</strong><br />
+    Participated in and won a hackathon on food waste detection using Computer Vision & AI,  
+    sponsored by Voxel51 at Hasso Plattner Institute — <em>August 2025</em>
+  </li>
+  <br />
+  
   <li>
     <strong>Talk at Sorbonne University</strong><br />
     <em>Developing Industrial Egocentric Assistants: Integrating Continual Learning, Data Management, and Multimodal Understanding</em><br />
