@@ -56,7 +56,7 @@ title: Vivek Chavan
   <!-- Column 1: Your Photo -->
   <div class="profile-photo">
     <!-- The photo is assumed to be named 'photo.jpg' in your site's asset folder -->
-    <img src="photo.jpg" alt="Vivek Chavan">
+    <img src="https://github.com/user-attachments/assets/0c18923f-6d38-4312-ae43-9f4e4c7764ad" alt="Vivek_01">
   </div>
   
   <!-- Column 2: Your "About Me" Information -->
