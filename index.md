@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vivek Chavan
+title: Vivek Chavan: Home
 ---
 
 # 👋 Hello!
