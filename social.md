@@ -21,7 +21,7 @@ Updates, media, and creative work I share outside of research.
   <!-- Example future entry -->
   <li>
     <strong>Shoshin</strong> — <em>Speech at Toastmasters- Bullring Speakers</em><br/>
-    <a href="[https://youtube.com/yourvideo](https://www.youtube.com/watch?v=fjoE9vHgKPQ)" target="_blank" rel="noopener">Watch on YouTube</a>
+    <a href="[https://youtube.com/watch?v=fjoE9vHgKPQ](https://www.youtube.com/watch?v=fjoE9vHgKPQ)" target="_blank" rel="noopener">Watch on YouTube</a>
   </li>
 </ul>
 
