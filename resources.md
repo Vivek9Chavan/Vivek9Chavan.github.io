@@ -15,7 +15,7 @@ I’ll keep this list updated as I give more talks and publish more content.
 
 <ul class="spacious-list">
   <li>
-    <strong>Talk at ABD Treffen</strong> — <em>June 2025</em><br />
+    <strong>Talk at ABS Treffen, Aachen</strong> — <em>June 2025</em><br />
     <em>Sehen, Verstehen, Unterstützen: Video-KI mit Ego- und Exo-Perspektiven für die Produktion der Zukunft</em><br />
     Slides: <a href="{{ '/assets/Video-KI_f%C3%BCr_die_Produktion_der_Zukunft_IPK_Vivek.pdf' | relative_url }}" target="_blank" rel="noopener">📑 PDF</a>
   </li>
