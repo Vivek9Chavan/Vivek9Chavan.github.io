@@ -18,13 +18,11 @@ Updates, media, and creative work I share outside of research.
     <a href="https://www.youtube.com/@vivekchavandotcom" target="_blank" rel="noopener">Visit my YouTube Channel</a>
   </li>
 
-  <!-- Example future entry -->
   <li>
-    <strong>Shoshin</strong> — <em>Speech at Toastmasters- Bullring Speakers</em><br/>
-    <a href="[https://youtube.com/watch?v=fjoE9vHgKPQ](https://www.youtube.com/watch?v=fjoE9vHgKPQ)" target="_blank" rel="noopener">Watch on YouTube</a>
+    <strong>Shoshin</strong> — <em>Speech at Toastmasters – Bullring Speakers</em><br/>
+    <a href="https://www.youtube.com/watch?v=fjoE9vHgKPQ" target="_blank" rel="noopener">Watch on YouTube</a>
   </li>
 </ul>
-
 ---
 
 ## 📸 Photography
