@@ -3,3 +3,11 @@ markdown: kramdown
 
 title: Vivek Chavan
 description: PhD researcher in Industrial AI, Egocentric Vision, and Robotics
+
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Resources"
+    url: "/resources/"
+  - title: "Social"
+    url: "/social/"
