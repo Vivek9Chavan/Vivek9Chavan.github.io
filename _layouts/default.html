@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ content_for_header }}
+</head>
+<body>
+  {% include nav.html %}
+  <main style="max-width: 1100px; margin: 0 auto; padding: 20px;">
+    {{ content }}
+  </main>
+</body>
+</html>
