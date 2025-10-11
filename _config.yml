@@ -20,4 +20,4 @@ defaults:
       type: "posts"
     values:
       permalink: /blog/:title/
-      future: true
+future: true
