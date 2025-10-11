@@ -11,8 +11,30 @@
   <main style="max-width:800px;margin:40px auto;padding:0 20px;">
     <h1>{{ page.title }}</h1>
     <p><em>{{ page.date | date: "%B %d, %Y" }}</em></p>
+
     {{ content }}
-    <p style="margin-top:2rem;"><a href="{{ '/blog/' | relative_url }}">← Back to Blog</a></p>
+
+    <p style="margin-top:2rem;">
+      <a href="{{ '/blog/' | relative_url }}">← Back to Blog</a>
+    </p>
+
+    <hr style="margin:3em 0;"/>
+
+    <section id="comments">
+      <h2>💬 Comments</h2>
+      <script src="https://utteranc.es/client.js"
+              repo="Vivek9Chavan/Vivek9Chavan.github.io"
+              issue-term="pathname"
+              label="💬 comment"
+              theme="github-light"
+              crossorigin="anonymous"
+              async>
+      </script>
+      <p style="font-size:0.9em;color:#666;margin-top:1em;">
+        Comments are powered by <a href="https://utteranc.es" target="_blank" rel="noopener">Utterances</a>.
+        You’ll need a GitHub account to post.
+      </p>
+    </section>
   </main>
 </body>
 </html>
