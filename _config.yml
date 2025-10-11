@@ -13,3 +13,10 @@ nav_links:
     url: "/resources/"
   - title: "Social"
     url: "/social/"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /blog/:title/
