@@ -7,6 +7,8 @@ description: PhD researcher in Industrial AI, Egocentric Vision, and Robotics
 nav_links:
   - title: "Home"
     url: "/"
+  - title: "Blog"
+    url: "/blog/"
   - title: "Resources"
     url: "/resources/"
   - title: "Social"
