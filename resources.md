@@ -19,6 +19,7 @@ I’ll keep this list updated as I give more talks and publish more content.
     <em>Continual Learning in Real-World Scenarios</em><br />
     Slides: <a href="{{'/assets/AI_Grid_Summit_2025_Continual_Learning.pdf' | relative_url }}" target="_blank" rel="noopener">📑 PDF</a>
   </li>
+  
   <li>
     <strong>Talk at ABS Treffen, Aachen</strong> in <em>June 2025</em><br />
     <em>Sehen, Verstehen, Unterstützen: Video-KI mit Ego- und Exo-Perspektiven für die Produktion der Zukunft</em><br />
