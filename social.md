@@ -25,7 +25,7 @@ Updates, media, and creative work I share outside of research.
 </ul>
 ---
 
-## 📸 Photography
+## 📸 Photography: To be updated soon
 
 <ul class="spacious-list">
   <li>
