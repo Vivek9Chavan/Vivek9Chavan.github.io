@@ -9,16 +9,15 @@ permalink: /contact/
 Please use this form to reach me about collaborations, openings, or speaking.  
 _No public email here to keep spam low._
 
-<!-- Replace the src below with your Google Form's embed link -->
 <div style="max-width: 800px;">
   <iframe
-    src="YOUR_GOOGLE_FORM_EMBED_URL"
+    src="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?embedded=true"
     width="100%"
-    height="1000"
+    height="1100"
     frameborder="0"
     marginheight="0"
     marginwidth="0"
-    >Loading…</iframe>
+  >Loading…</iframe>
 </div>
 
 If the form doesn’t load, use the direct link:  
