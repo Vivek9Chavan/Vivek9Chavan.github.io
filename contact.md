@@ -21,4 +21,4 @@ _No public email here to keep spam low._
 </div>
 
 If the form doesn’t load, use the direct link:  
-<a href="https://forms.gle/oc4Vf2ZGPsQFBFPy5" target="_blank" rel="noopener">Open the contact form ↗</a>
+<a href="https://forms.gle/ecPDd48jjUbhibBX6" target="_blank" rel="noopener">Open the contact form ↗</a>
