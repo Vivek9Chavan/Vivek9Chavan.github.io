@@ -35,7 +35,7 @@ Updates, media, and creative work I share outside of research.
 
   <!-- Example placeholder -->
   <li>
-    <strong>Photo Essay</strong> — <em>Tempelhofer Feld, Berlin</em><br/>
+    <strong>Photo Essay</strong> — <em> Berlin</em><br/>
     <a href="https://yourphotoalbumlink" target="_blank" rel="noopener">View Album</a>
   </li>
 </ul>
