@@ -79,9 +79,9 @@ title: Vivek Chavan- Home
   <br />
 
   <li>
-    <strong>Control Trade Fair — Technology Demonstration</strong><br />
+    <strong>Control Trade Fair- Technology Demonstration</strong><br />
     Represented the Machine Vision team with live demos (anomaly detection, object detection, egocentric vision).<br />
-    Stuttgart — <em>April 2024</em>
+    Stuttgart in <em>April 2024</em>
   </li>
   <br />
 
