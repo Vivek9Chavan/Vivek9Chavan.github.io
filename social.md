@@ -19,7 +19,7 @@ Updates, media, and creative work I share outside of research.
   </li>
 
   <li>
-    <strong>Shoshin</strong> — <em>Speech at Toastmasters – Bullring Speakers</em><br/>
+    <strong>Shoshin</strong>- <em>Speech at Toastmasters – Bullring Speakers</em><br/>
     <a href="https://www.youtube.com/watch?v=fjoE9vHgKPQ" target="_blank" rel="noopener">Watch on YouTube</a>
   </li>
 </ul>
