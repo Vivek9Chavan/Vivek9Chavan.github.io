@@ -4,7 +4,7 @@ title: Vivek Chavan- Resources
 permalink: /projects/
 ---
 
-# 📦 Projects
+# 💡 Projects
 
 A summary of the projects I have worked on over the last few years.
 
