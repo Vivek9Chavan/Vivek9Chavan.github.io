@@ -11,6 +11,10 @@ nav_links:
     url: "/blog/"
   - title: "Resources"
     url: "/resources/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Openings"
+    url: "/openings/"
   - title: "Social"
     url: "/social/"
 
