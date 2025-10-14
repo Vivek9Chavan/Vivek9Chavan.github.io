@@ -11,15 +11,15 @@ _No public email here to keep spam low._
 
 <div style="max-width: 800px;">
   <iframe
-    src="https://docs.google.com/forms/d/e/1FAIpQLScbPU-rdKIzL6vbgc57uKc-kBSQ86cRSIETJrKFMHb65do2hw<img width="681" height="1000" alt="image" src="https://github.com/user-attachments/assets/94215a37-4348-4c74-9645-2794fd05552c" />
-"
+    src="https://docs.google.com/forms/d/e/1FAIpQLScbPU-rdKIzL6vbgc57uKc-kBSQ86cRSIETJrKFMHb65do2hw/viewform?embedded=true"
     width="100%"
     height="1100"
     frameborder="0"
     marginheight="0"
     marginwidth="0"
+    loading="lazy"
   >Loading…</iframe>
 </div>
 
 If the form doesn’t load, use the direct link:  
-<a href="https://forms.gle/ecPDd48jjUbhibBX6" target="_blank" rel="noopener">Open the contact form ↗</a>
+<a href="https://forms.gle/Ff7pKSBdPXRPnG2U6" target="_blank" rel="noopener">Open the contact form ↗</a>
