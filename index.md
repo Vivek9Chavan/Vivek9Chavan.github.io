@@ -36,7 +36,10 @@ title: Vivek Chavan- Home
       <li>🤖 Robotics</li>
     </ul>
 
-    For inquiries and questions, please reach out: [Contact]([url](https://vivekchavan.com/contact/))
+    <p>For inquiries and questions, please reach out via the
+    <a href="/contact/">📬 Contact page</a>.
+    </p>
+
   </div>
 
 </div>
