@@ -171,7 +171,7 @@ title: Vivek Chavan- Home
 
 <ul>
   <li>
-    <strong>IndEgo</strong> — Coming soon  
+    <strong>IndEgo</strong>- Coming soon  
     <br />
     A large-scale dataset of industrial scenarios and collaborative work for egocentric assistants.  
   </li>
