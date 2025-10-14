@@ -61,14 +61,18 @@ Summary: In the project, new dynamic process chains are being developed in which
 
 Funded by BAM and the EU European Regional Development Fund.
 
+[More Information](https://www.bam.de/Content/EN/Projects/MRO-2-0/mro-2-0.html)
+
 ---
 
-## EIBA (2019-2023)
+## EIBA (2019-2022)
 Sensory recording, automated identification and evaluation of old parts based on product data as well as information about previous deliveries.
 
 Summary: The aim of the project was to develop an ML-based solution for identifying and assessing the condition of old parts. Using multimodal and multi-view AI methods, the system should be able to see and recognise products and compare them with other available information. I worked as an intern on the project and also did my Master Thesis on the topic of Green Incremental Learning, bringing together Green AI and Continual Learning.
 
 This research has been funded by BMFTR in the framework of ReziProK (project ID 033R226). 
+
+[More Information](https://www.tu.berlin/en/see/research/projects/eiba)
 
 ----
 
