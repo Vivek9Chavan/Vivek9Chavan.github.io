@@ -17,6 +17,8 @@ nav_links:
     url: "/openings/"
   - title: "Social"
     url: "/social/"
+  - title: "Contact"
+    url: "/contact/"
 
 defaults:
   - scope:
