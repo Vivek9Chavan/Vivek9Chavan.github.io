@@ -18,7 +18,7 @@ title: Vivek Chavan- Home
   <div style="flex: 2; min-width: 300px;">
     <h2>🔬 About Me</h2>
     <p>
-      I am an AI Researcher and Computer Vision Scientist developing intelligent systems that can understand and operate in complex, real-world human environments. My work focuses on bridging the gap between foundational research and practical, industry-relevant applications.
+      I am Machine Learning and Computer Vision Researcher, developing intelligent systems that can understand and operate in complex, real-world human environments. My work focuses on bridging the gap between foundational research and practical, industry-relevant applications.
     </p>
 
     <p style="margin: 0.5em 0 1em;">
@@ -45,36 +45,36 @@ title: Vivek Chavan- Home
 
 <ul>
     <li>
-    🏆 <strong>Winner — Food Waste Detection Hackathon</strong><br />
+    🏆 <strong>Winner- Food Waste Detection Hackathon</strong><br />
     Participated in and won a hackathon on food waste detection using Computer Vision & AI,  
-    sponsored by Voxel51 at Hasso Plattner Institute — <em>August 2025</em>
+    sponsored by Voxel51 at Hasso Plattner Institute in <em>August 2025</em>
   </li>
   <br />
   
   <li>
     <strong>Talk at Sorbonne University</strong><br />
     <em>Developing Industrial Egocentric Assistants: Integrating Continual Learning, Data Management, and Multimodal Understanding</em><br />
-    Center for Artificial Intelligence, Paris — <em>April 2025</em>
+    Center for Artificial Intelligence, Paris in <em>April 2025</em>
   </li>
   <br />
 
   <li>
-    <strong>Podcast Interview — Heise Online (KI-Update)</strong><br />
+    <strong>Podcast Interview- Heise Online (KI-Update)</strong><br />
     Topic: Current research in Industrial AI and Egocentric Vision<br />
-    KI-Update Deep-Dive: “AI glasses in industry” — <em>29 March 2025</em><br />
+    KI-Update Deep-Dive: “AI glasses in industry” in <em>March 2025</em><br />
     🔗 <a href="https://www.heise.de/news/KI-Update-Deep-Dive-KI-Brillen-helfen-in-der-Industrie-9670746.html" target="_blank" rel="noopener">Heise Online</a>
   </li>
   <br />
 
   <li>
-    <strong>Berlin Science Week — Invited Research Talk & Demo</strong><br />
-    Public presentation of ongoing research — <em>November 2024</em>
+    <strong>Berlin Science Week- Research Talk & Demo</strong><br />
+    Public presentation of ongoing research in <em>November 2024</em>
   </li>
   <br />
 
   <li>
-    <strong>Science Slam Hamburg — Winner</strong><br />
-    Top-rated talk (≈200 audience) on Artificial Intelligence — <em>July 2024</em>
+    <strong>Science Slam Hamburg- Winner</strong><br />
+    Top-rated talk (≈200 audience) on Artificial Intelligence in <em>July 2024</em>
   </li>
   <br />
 
@@ -86,26 +86,26 @@ title: Vivek Chavan- Home
   <br />
 
   <li>
-    <strong>Fraunhofer Vision Session — Technical Talk</strong><br />
-    Industrial continual learning with a focus on energy consumption and computational footprint — <em>November 2023</em>
+    <strong>Fraunhofer Vision Session- Invited Talk</strong><br />
+    Industrial continual learning with a focus on energy consumption and computational footprint in <em>November 2023</em>
   </li>
   <br />
 
   <li>
-    <strong>VisionRead Talks — Internal Knowledge-Sharing</strong><br />
-    Six talks covering recent research in Computer Vision & AI — <em>2023–2024</em>
+    <strong>VisionRead Talks- Internal Knowledge-Sharing</strong><br />
+    Six talks covering recent research in Computer Vision & AI in <em>2023–2024</em>
   </li>
   <br />
 
   <li>
-    🏆 <strong>Winner — AI Grid Hackathon</strong><br />
-    Developed novel solutions for sustainable AI in industry during an international hackathon challenge — <em>September 2024</em>
+    🏆 <strong>Winner- AI Grid Hackathon</strong><br />
+    Developed novel solutions for sustainable AI in industry during an international hackathon challenge in <em>September 2024</em>
   </li>
   <br />
 
   <li>
     🛠 <strong>Workshop Participation</strong><br />
-    Attended and contributed to AI Grid Summer School workshops on computer vision, time series forecasting, and prompt engineering — <em>September 2024</em>
+    Attended and contributed to AI Grid Summer School workshops on computer vision, time series forecasting, and prompt engineering in <em>September 2024</em>
   </li>
   <br />
 
