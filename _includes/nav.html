@@ -1,5 +1,5 @@
 <!-- _includes/nav.html -->
-<header class="site-header">
+<header class="site-header" role="banner">
   <nav class="site-nav" aria-label="Main">
     <a class="brand" href="/">{{ site.title }}</a>
     <div class="links">
@@ -13,19 +13,71 @@
 </header>
 
 <style>
+  /* Header: sticky + solid background + subtle shadow */
   .site-header {
-    position: sticky; top: 0; z-index: 10;
-    background: #fff; border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    box-shadow: 0 1px 8px rgba(0,0,0,.06);
+    width: 100%;
   }
+
+  /* Nav container: WIDER/TALLER + WRAPS + white bg even when wrapped */
   .site-nav {
-    display: flex; align-items: center; justify-content: space-between;
-    max-width: 1100px; margin: 0 auto; padding: 0 20px; height: 58px;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 18px 20px;      /* ↑ make the band taller (adjust to taste) */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px 16px;
+    flex-wrap: wrap;         /* allow multiple rows on small screens */
+    background: #fff;        /* keep white behind all wrapped rows */
+    min-height: 72px;        /* floor height (increase if you want larger) */
   }
-  .site-nav .brand { font-weight: 700; text-decoration: none; color: #111; }
+
+  /* Brand (title) */
+  .site-nav .brand {
+    font-weight: 700;
+    text-decoration: none;
+    color: #111;
+    font-size: 1.1rem;
+    line-height: 1.2;
+    white-space: nowrap;
+  }
+
+  /* Links cluster */
+  .site-nav .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 14px;
+  }
   .site-nav .links a {
-    text-decoration: none; color: #0366d6; margin-left: 16px;
+    text-decoration: none;
+    color: #0366d6;
+    font-weight: 500;
+    line-height: 1.2;
   }
   .site-nav .links a[aria-current="page"] {
-    font-weight: 700; text-decoration: underline; text-underline-offset: 3px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  /* MOBILE: center everything, brand on its own row, extra padding */
+  @media (max-width: 820px) {
+    .site-nav {
+      justify-content: center;
+      text-align: center;
+      padding: 20px 20px;    /* taller on mobile */
+      min-height: 84px;      /* more headroom for two/three rows */
+    }
+    .site-nav .brand {
+      flex: 1 1 100%;
+      text-align: center;
+      margin-bottom: 6px;    /* space between brand and link rows */
+    }
   }
 </style>
