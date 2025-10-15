@@ -46,7 +46,7 @@ _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 ---
 
 ## ✅ General Notes
-- Enrollment in a university program (BSc/MSc/PhD)  
+- Enrollment in a university program (BSc/MSc)  
 - We value initiative, reproducibility, and clear writing  
 - Visa/contract details depend on institute policy and role
 
