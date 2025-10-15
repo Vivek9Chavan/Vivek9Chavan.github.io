@@ -18,7 +18,7 @@ title: Vivek Chavan- Home
   <div style="flex: 2; min-width: 300px;">
     <h2>🔬 About Me</h2>
     <p>
-      I am Machine Learning and Computer Vision Researcher, developing intelligent systems that can understand and operate in complex, real-world human environments. My work focuses on bridging the gap between foundational research and practical, industry-relevant applications. Currently pursuing a PhD at TU Berlin and working as a Research Associate at Fraunhofer IPK, Berlin.
+      I am a Machine Learning and Computer Vision Researcher, developing intelligent systems that can understand and operate in complex, real-world human environments. My work focuses on bridging the gap between foundational research and practical, industry-relevant applications. Currently pursuing a PhD at TU Berlin and working as a Research Associate at Fraunhofer IPK, Berlin.
     </p>
 
     <p style="margin: 0.5em 0 1em;">
