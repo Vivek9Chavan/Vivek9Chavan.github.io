@@ -1,52 +1,61 @@
-/* --- Navbar mobile fix and sticky white header --- */
+/* --- Sticky, full-height white nav bar (mobile + desktop) --- */
 
 .site-header {
-  position: sticky;           /* stays visible while scrolling */
+  position: sticky;
   top: 0;
   z-index: 1000;
-  background: #fff;           /* solid background so text never overlaps */
+  width: 100%;
+  background: #fff;           /* solid background for all rows */
   border-bottom: 1px solid #eee;
-  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 1px 8px rgba(0,0,0,.06);
 }
 
-/* Main navigation layout */
+/* NAV CONTAINER: allows wrapping */
 .site-nav {
   display: flex;
+  flex-wrap: wrap;            /* critical: makes the height expand */
   align-items: center;
   justify-content: space-between;
   gap: 8px 16px;
-  padding: 10px 20px;      /* adds vertical room */
-  flex-wrap: wrap;         /* allow wrapping */
-  background: inherit;     /* inherits solid white background */
+  padding: 12px 20px;
+  background: #fff;           /* ensure each wrapped row stays on white */
 }
 
-/* Link grouping */
+/* LINKS */
 .site-nav .links {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px 12px;           /* spacing between links when wrapped */
+  gap: 8px 12px;
 }
 
-/* Responsive adjustments for small screens */
+/* BRAND */
+.site-nav .brand {
+  font-weight: 700;
+  text-decoration: none;
+  color: #111;
+}
+
+/* MOBILE LAYOUT */
 @media (max-width: 820px) {
   .site-nav {
-    justify-content: center; /* center the wrapped rows */
-    padding: 14px 20px;      /* a bit taller on mobile */
+    justify-content: center;
+    text-align: center;
+    padding: 14px 20px;
   }
 
   .site-nav .brand {
     flex: 1 1 100%;
-    text-align: center;      /* brand on its own row when needed */
-    margin-bottom: 4px;
+    text-align: center;
+    margin-bottom: 6px;
   }
 }
 
-/* Ensure first content doesn’t sit under the sticky header */
+/* Prevent page content from touching nav */
 main > *:first-child {
-  margin-top: 8px;
+  margin-top: 10px;
 }
 
-/* Optional: improve link color and hover on light background */
+/* Optional: link styling */
 .site-nav a {
   text-decoration: none;
   color: #0366d6;
