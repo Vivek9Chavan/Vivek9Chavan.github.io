@@ -7,26 +7,22 @@ title: Vivek Chavan- Home
 
 
 <div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
-
   <!-- Bigger photo column -->
   <div style="flex: 1; min-width: 300px; max-width: 400px;">
     <img src="https://github.com/user-attachments/assets/0c18923f-6d38-4312-ae43-9f4e4c7764ad" 
          alt="Vivek_01" 
          style="width: 100%; height: auto; border-radius: 12px;">
   </div>
-
   <div style="flex: 2; min-width: 300px;">
     <h2>🔬 About Me</h2>
     <p>
       I am a Machine Learning and Computer Vision Researcher, developing intelligent systems that can understand and operate in complex, real-world human environments. My work focuses on bridging the gap between foundational research and practical, industry-relevant applications. Currently pursuing a PhD at TU Berlin and working as a Research Associate at Fraunhofer IPK, Berlin.
     </p>
-
     <p style="margin: 0.5em 0 1em;">
       <a href="https://scholar.google.com/citations?user=jeREfqcAAAAJ&hl=en" target="_blank" rel="noopener">🎓 Google Scholar</a>
       • <a href="https://www.linkedin.com/in/vivek9chavan/" target="_blank" rel="noopener">💼 LinkedIn</a>
       • <a href="https://x.com/vivek9chavan" target="_blank" rel="noopener">𝕏 / Twitter</a>
     </p>
-
     <ul>
       <li>🏭 Industrial Automation</li>
       <li>🎥 Egocentric Vision</li>
@@ -119,7 +115,7 @@ title: Vivek Chavan- Home
 
 <hr style="margin: 2em 0;" />
 
-# 📄 First-Author Publications
+## 📄 First-Author Publications
 
 <ul>
   <li>
