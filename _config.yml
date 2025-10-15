@@ -27,3 +27,25 @@ defaults:
     values:
       permalink: /blog/:title/
 future: true
+
+/* --- Navbar mobile fix --- */
+nav {
+  line-height: 1.8; /* increase spacing between stacked links */
+  padding-top: 0.8em;
+  padding-bottom: 0.8em;
+}
+
+/* Ensure the header expands properly on smaller screens */
+@media (max-width: 768px) {
+  header {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.6em;
+  }
+}
