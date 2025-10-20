@@ -5,7 +5,9 @@ date: 2025-11-01
 author: Vivek Chavan
 ---
 
-![XR + AI Concept Overview](/assets/xr_concept.png)
+<p align="center">
+  <img src="/assets/xr_concept.png" alt="XR + AI Concept Overview" style="transform: rotate(90deg); width: 90%; border-radius: 8px;"/>
+</p>
 
 # HACK:XR+AI 2025 — Team Concept Vision  
 **Shaping XR + AI for Good: Building Tomorrow, Ethically and Immersively**
@@ -81,12 +83,12 @@ We plan to follow a **rapid research–prototype cycle**:
 ## 🏆 Alignment with Judging Criteria
 
 | **Judging Criterion** | **Our Approach** |
-|:-----------------------|:----------------|
-| **Quality of Prototype** | Functional demo integrating real-time AI reasoning in XR. |
-| **Technical Challenge** | Bridging computer vision, spatial reasoning, and immersive design. |
-| **Societal Impact** | Focus on safety, wellbeing, or sustainability. |
-| **Ethical Design** | Built-in transparency, privacy, and explainability principles. |
-| **Interdisciplinarity** | Team combines AI, XR, design, and law backgrounds. |
+|:---------------------------|:----------------------|
+| **Quality of Prototype**   |  Functional demo integrating real-time AI reasoning in XR. |
+| **Technical Challenge**  |  Bridging computer vision, spatial reasoning, and immersive design. |
+| **Societal Impact**  |  Focus on safety, wellbeing, or sustainability. |
+| **Ethical Design**  |  Built-in transparency, privacy, and explainability principles. |
+| **Interdisciplinarity**  |  Team combines AI, XR, design, and law backgrounds. |
 
 ---
 
