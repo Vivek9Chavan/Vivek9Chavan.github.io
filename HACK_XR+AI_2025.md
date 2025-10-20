@@ -80,7 +80,7 @@ An **AR “impact mirror”** that visualizes the environmental footprint of eve
 
 | Role | Core Skills | Contribution |
 |:--|:--|:--|
-| **AI / Vision / Research Lead** *(Vivek)* | Machine learning, computer vision, embodied AI | Define concept, develop reasoning models, integrate ethics in AI |
+| **AI / Vision / Research** *(Vivek)* | Machine learning, computer vision, embodied AI | Define concept, develop reasoning models, integrate ethics in AI |
 | **XR / AR Developer** | Unity / Unreal / WebXR | Build immersive experiences, interactions, and visualization |
 | **Full-Stack / ML Engineer** | Python, APIs, backend systems | Connect AI logic to XR frontend, manage data pipelines |
 | **UX / Design / Storytelling** | Interaction design, UI/UX, visual communication | Create user flow, storytelling, and final presentation |
