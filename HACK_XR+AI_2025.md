@@ -5,6 +5,26 @@ date: 2025-11-01
 author: Vivek Chavan
 ---
 
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 10px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+table th {
+  background-color: #f6f8fa;
+}
+</style>
+
 <p align="center">
   <img src="/assets/xr_concept.png" alt="XR + AI Concept Overview" style="transform: rotate(90deg); width: 90%; border-radius: 8px;"/>
 </p>
