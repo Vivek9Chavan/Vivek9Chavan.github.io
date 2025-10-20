@@ -1,5 +1,5 @@
 ---
-title: "HACK:XR+AI 2025 — Team Concept Vision"
+title: "HACK:XR+AI 2025- Team Concept Vision"
 description: "Shaping XR + AI for Good: Building Tomorrow, Ethically and Immersively"
 date: 2025-11-01
 author: Vivek Chavan
@@ -9,7 +9,7 @@ author: Vivek Chavan
   <img src="/assets/xr_concept.png" alt="XR + AI Concept Overview" style="transform: rotate(90deg); width: 90%; border-radius: 8px;"/>
 </p>
 
-# HACK:XR+AI 2025 — Team Concept Vision  
+# HACK:XR+AI 2025 - Team Concept Vision  
 **Shaping XR + AI for Good: Building Tomorrow, Ethically and Immersively**
 
 *By Vivek Chavan, TU Berlin & Fraunhofer IPK*
@@ -20,7 +20,7 @@ author: Vivek Chavan
 Immersive and embodied technologies are redefining how humans interact with knowledge, machines, and each other.  
 At **HACK:XR+AI 2025**, our goal is to create a **multidisciplinary prototype** that unites **AI, XR, and ethics** to demonstrate that responsible innovation can be both technically excellent and socially meaningful.
 
-We aim to show that **immersive intelligence** can serve human progress — not replace it.
+We aim to show that **immersive intelligence** can serve human progress, not replace it.
 
 ---
 
@@ -66,7 +66,7 @@ An **AR “impact mirror”** that visualizes the environmental footprint of eve
 | **UX / Design / Storytelling** | Interaction design, UI/UX, visual communication | Create user flow, storytelling, and final presentation |
 | **Ethics / Law / Policy Specialist** | Technology law, AI governance, ethics | Define data handling principles, create ethical design framework |
 
-Together, this creates a consortium-style team blending **technical depth**, **design insight**, and **ethical reflection** — a rare but powerful mix.
+Together, this creates a consortium-style team blending **technical depth**, **design insight**, and **ethical reflection**, a rare but powerful mix.
 
 ---
 
@@ -109,7 +109,7 @@ Let’s build something that is **technically robust, ethically grounded, and cr
 
 ## 👤 About me
 I’m **Vivek**, a researcher at **TU Berlin** and **Fraunhofer IPK**, working at the intersection of **AI, computer vision, and egocentric XR**.  
-My current research explores how **AI systems can understand and assist human activity** through wearable and spatially aware devices — combining perception, reasoning, and ethical design.
+My current research explores how **AI systems can understand and assist human activity** through wearable and spatially aware devices, combining perception, reasoning, and ethical design.
 
 For more information about my research and projects, visit [**vivekchavan.com**](https://vivekchavan.com).
 
