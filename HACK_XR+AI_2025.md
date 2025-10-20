@@ -68,11 +68,11 @@ A **VR environment** that adapts dynamically to emotional state, tone, or behavi
 - **Tech Focus:** Multimodal emotion inference + environment control.  
 - **Ethical Lens:** Emotional transparency, consent, and trust.
 
-### 3. XR Mirror for Climate & Sustainability Awareness
-An **AR “impact mirror”** that visualises the environmental footprint of everyday actions.  
-- **Social Value:** Education and behavioural change for sustainability.  
-- **Tech Focus:** AI reasoning + real-time XR visualisation.  
-- **Ethical Lens:** Accuracy, value alignment, and truthful messaging.
+### 3. XR Classroom for Learning & Education
+An **immersive learning experience** that uses AI reasoning to adapt teaching methods, content, or pace to individual learners.  
+- **Social Value:** Accessible, inclusive education and lifelong learning opportunities.  
+- **Tech Focus:** Personalized AI-driven content generation and spatial learning visualisation.  
+- **Ethical Lens:** Data protection, fairness, and explainability in educational AI.
 
 ---
 
