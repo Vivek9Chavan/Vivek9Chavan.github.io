@@ -26,9 +26,9 @@ DAADEM turns egocentric/robotic vision research into a real-world, funded applic
 
 Approach:
 - Combine multimodal data capture (ego/exo cameras, depth, audio, robotics).
-- Use AI for part recognition, localization, and quality assessment.
+- Use AI for part recognition, localisation, and quality assessment.
 - Apply AR-based worker guidance and robotic assistance for adaptive disassembly.
-- Create a “data-supplying structure” — a platform to exchange standardized industrial and AI data between SMEs, OEMs, and startups.
+- Create a “data-supplying structure”- a platform to exchange standardised industrial and AI data between SMEs, OEMs, and startups.
 
 Outcome: A demonstrator showing KI- and AR-guided disassembly of a motorblock, forming the basis for future robot-based automation and circular-economy integration.
 
@@ -88,7 +88,7 @@ More Information: [Fraunhofer News – AI-Driven Lifecycle Management](https://w
 ## MRO 2 (2023-2024)
 Maintenance, Repair and Overhaul
 
-Summary: In the project, new dynamic process chains are being developed in which the value creation steps are specified through digitization. Each component is to pass through an individual repair chain. This development will be demonstrated using the example of gas turbine blades, which can be operated at higher temperatures or with longer operating intervals after repair. My contribution included developing an MLOps based framework for dataset curation and continual model training and deployment.
+Summary: In the project, new dynamic process chains are being developed in which the value creation steps are specified through digitisation. Each component is to pass through an individual repair chain. This development will be demonstrated using the example of gas turbine blades, which can be operated at higher temperatures or with longer operating intervals after repair. My contribution included developing an MLOps based framework for dataset curation and continual model training and deployment.
 
 Funded by BAM and the EU European Regional Development Fund.
 
