@@ -47,9 +47,9 @@ The project lies at the intersection of **egocentric AI**, **robotic manipulatio
 - Uses **Project Aria smart glasses to capture *egocentric multimodal data* (video, gaze, audio, motion) from skilled staff.  
 - Combines this with exocentric views from the *Cir.Log* camera system for multi-view imitation learning in grasping and process understanding.
 
-2. Vision–Language–Robotics Integration
+2. Vision–Language-Robotics Integration
 A specialised domain-adapted language mode (*Steri.GPT*) and multimodal vision-language models (e.g. LLaVA, DINOv2) power the robot’s perception and reasoning:
-- Understands and executes spoken commands *(“SteriBot – bring me the basic tray from the top shelf”)*
+- Understands and executes spoken commands *(“SteriBot, bring me the basic tray from the top shelf”)*
 - Detects and explains manipulation errors  
 - Requests human help in ambiguous cases *(“Please separate these instruments”)*
 
