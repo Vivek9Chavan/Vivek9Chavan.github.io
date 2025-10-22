@@ -19,7 +19,7 @@ Below is a selection of national and international press articles, interviews, a
 - **Konstruktionspraxis:** [*KI-Assistenzsystem klassifiziert ausgediente Elektrogeräte*](https://www.konstruktionspraxis.vogel.de/ki-assistenzsystem-klassifiziert-ausgediente-elektrogeraete-a-a1243ce9a5cb05a2b86ed9bdd39405c2/?cmp=beleg-mail&pt=68649e5ae1004)  
   <small>Technical article on AI-based classification and disassembly, August 2025.</small>
 
-- **Fraunhofer Gesellschaft:** [*Mit KI alte Elektrogeräte wiederverwerten*](https://www.fraunhofer.de/de/presse/presseinformationen/2025/juli-2025/mit-ki-alte-elektrogeraete-wiederverwerten.html)  
+- **Forschung Kompakt:** [*Mit KI alte Elektrogeräte wiederverwerten*](https://www.fraunhofer.de/de/presse/presseinformationen/2025/juli-2025/mit-ki-alte-elektrogeraete-wiederverwerten.html)  
   <small>Official Fraunhofer press release on AI-driven lifecycle management, July 2025.</small>
 
 - **AI Pressroom:** [*Interview: IndEgo – Egocentric AI for Industrial Scenarios*](https://aipressroom.com/vivek-chavan-indego-interview/)  
