@@ -53,7 +53,7 @@ title: Vivek Chavan- Home
   </li>
   <br />
   
-    <li>
+  <li>
     🏆 <strong>Winner- Food Waste Detection Hackathon</strong><br />
     Participated in and won a hackathon on food waste detection using Computer Vision & AI,  
     sponsored by Voxel51 at Hasso Plattner Institute in <em>August 2025</em>
