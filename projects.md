@@ -36,6 +36,37 @@ Funded by the Fraunhofer Gesellschaft.
 
 ---
 
+## Steri.Bot (2025-2028)
+Collaborative AI Robotics for Safer, Smarter Healthcare Workflows
+
+Goal: Steri.Bot aims to reduce physical strain and infection exposure through an intelligent robot assistant that collaborates with humans via natural language and visual understanding.
+
+The project lies at the intersection of **egocentric AI**, **robotic manipulation**, and **multimodal learning**, areas central to my ongoing research.
+
+1. Egocentric and Exocentric Data for Learning by Demonstration
+- Uses **Project Aria smart glasses to capture *egocentric multimodal data* (video, gaze, audio, motion) from skilled staff.  
+- Combines this with exocentric views from the *Cir.Log* camera system for multi-view imitation learning in grasping and process understanding.
+
+2. Vision–Language–Robotics Integration
+A specialised domain-adapted language mode (*Steri.GPT*) and multimodal vision-language models (e.g. LLaVA, DINOv2) power the robot’s perception and reasoning:
+- Understands and executes spoken commands  
+  > “SteriBot – bring me the basic tray from the top shelf”  
+- Detects and explains manipulation errors  
+- Requests human help in ambiguous cases  
+  > “Please separate these instruments”
+
+3. Multi-Agent Cognitive Architecture
+- TU Berlin develops a retrieval-augmented multi-agent system (MAS) linking hospital information systems (KIS/IMS), robotic controllers, and NLP interfaces.  
+- Enables dynamic task allocation, context reasoning, and interactive dialogue between humans, robots, and digital infrastructure.
+
+4. Continual and Active Learning in the Real World
+- The ML pipeline improves continuously via data-centric continual-learning pipelines, managing 100–200 TB of multimodal data.  
+- Data privacy and GDPR compliance are ensured through Fraunhofer-hosted secure cloud infrastructure and automated anonymization *(face blurring, voice transcription)*.
+
+Funded by the German Agency BMFTR.
+
+---
+
 ## CirculAIRe (Under Review, 2026)
 Circular Value Creation in White Goods via LCA and AI-driven 9Rs 
 
