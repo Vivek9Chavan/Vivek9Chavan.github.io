@@ -45,6 +45,14 @@ title: Vivek Chavan- Home
 ## 🎤 Talks, Presentations & Activities
 
 <ul>
+
+  <li>
+    <strong>Invited Talk at TU Berlin</strong><br />
+    <em> Research on Egocentric and Exocentric Vision for Industrial Applications</em><br />
+    AI in Manufacturing, IWF, Berlin in <em>November 2025</em>
+  </li>
+  <br />
+  
     <li>
     🏆 <strong>Winner- Food Waste Detection Hackathon</strong><br />
     Participated in and won a hackathon on food waste detection using Computer Vision & AI,  
@@ -74,27 +82,9 @@ title: Vivek Chavan- Home
   <br />
 
   <li>
-    <strong>Science Slam Hamburg- Winner</strong><br />
-    Top-rated talk (≈200 audience) on Artificial Intelligence in <em>July 2024</em>
-  </li>
-  <br />
-
-  <li>
     <strong>Control Trade Fair- Technology Demonstration</strong><br />
     Represented the Machine Vision team with live demos (anomaly detection, object detection, egocentric vision).<br />
     Stuttgart in <em>April 2024</em>
-  </li>
-  <br />
-
-  <li>
-    <strong>Fraunhofer Vision Session- Invited Talk</strong><br />
-    Industrial continual learning with a focus on energy consumption and computational footprint in <em>November 2023</em>
-  </li>
-  <br />
-
-  <li>
-    <strong>VisionRead Talks- Internal Knowledge-Sharing</strong><br />
-    Six talks covering recent research in Computer Vision & AI in <em>2023–2024</em>
   </li>
   <br />
 
@@ -107,6 +97,24 @@ title: Vivek Chavan- Home
   <li>
     🛠 <strong>Workshop Participation</strong><br />
     Attended and contributed to AI Grid Summer School workshops on computer vision, time series forecasting, and prompt engineering in <em>September 2024</em>
+  </li>
+  <br />
+
+  <li>
+    <strong>Science Slam Hamburg- Winner</strong><br />
+    Top-rated talk (≈200 audience) on Artificial Intelligence in <em>July 2024</em>
+  </li>
+  <br />
+
+  <li>
+    <strong>Fraunhofer Vision Session- Invited Talk</strong><br />
+    Industrial continual learning with a focus on energy consumption and computational footprint in <em>November 2023</em>
+  </li>
+  <br />
+
+   <li>
+    <strong>VisionRead Talks- Internal Knowledge-Sharing</strong><br />
+    Six talks covering recent research in Computer Vision & AI in <em>2023–2024</em>
   </li>
   <br />
 
