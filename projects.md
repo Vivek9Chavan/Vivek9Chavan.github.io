@@ -49,11 +49,9 @@ The project lies at the intersection of **egocentric AI**, **robotic manipulatio
 
 2. Vision–Language–Robotics Integration
 A specialised domain-adapted language mode (*Steri.GPT*) and multimodal vision-language models (e.g. LLaVA, DINOv2) power the robot’s perception and reasoning:
-- Understands and executes spoken commands  
-  > “SteriBot – bring me the basic tray from the top shelf”  
+- Understands and executes spoken commands *(“SteriBot – bring me the basic tray from the top shelf”)*
 - Detects and explains manipulation errors  
-- Requests human help in ambiguous cases  
-  > “Please separate these instruments”
+- Requests human help in ambiguous cases *(“Please separate these instruments”)*
 
 3. Multi-Agent Cognitive Architecture
 - TU Berlin develops a retrieval-augmented multi-agent system (MAS) linking hospital information systems (KIS/IMS), robotic controllers, and NLP interfaces.  
