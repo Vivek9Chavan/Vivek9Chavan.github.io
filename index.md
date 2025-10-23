@@ -81,12 +81,6 @@ title: Vivek Chavan- Home
   </li>
   <br />
 
-  <li>
-    <strong>Control Trade Fair- Technology Demonstration</strong><br />
-    Represented the Machine Vision team with live demos (anomaly detection, object detection, egocentric vision).<br />
-    Stuttgart in <em>April 2024</em>
-  </li>
-  <br />
 
   <li>
     🏆 <strong>Winner- AI Grid Hackathon</strong><br />
@@ -103,6 +97,13 @@ title: Vivek Chavan- Home
   <li>
    🏆 <strong>Science Slam Hamburg- Winner</strong><br />
     Top-rated talk (≈200 audience) on Artificial Intelligence in <em>July 2024</em>
+  </li>
+  <br />
+
+<li>
+    <strong>Control Trade Fair- Technology Demonstration</strong><br />
+    Represented the Machine Vision team with live demos (anomaly detection, object detection, egocentric vision).<br />
+    Stuttgart in <em>April 2024</em>
   </li>
   <br />
 
