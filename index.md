@@ -101,7 +101,7 @@ title: Vivek Chavan- Home
   <br />
 
   <li>
-    <strong>Science Slam Hamburg- Winner</strong><br />
+   🏆 <strong>Science Slam Hamburg- Winner</strong><br />
     Top-rated talk (≈200 audience) on Artificial Intelligence in <em>July 2024</em>
   </li>
   <br />
