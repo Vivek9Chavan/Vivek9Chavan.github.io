@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Agents: My Perspective"
-date: 2025-10-20
+date: 2025-12-20
 ---
 
 Dropping soon.
