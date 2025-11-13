@@ -23,7 +23,7 @@ The forum was also a great opportunity to share our own research during a lively
 
 <img src="https://github.com/Vivek9Chavan/Vivek9Chavan.github.io/blob/main/assets/20251111_201347-COLLAGE.jpg?raw=true" alt="My Poster at the Mittelstand-Forum 2025" style="width: 100%; max-width: 800px; height: auto; display: block; margin: auto;">
 
-The KIKERP project focuses on using AI to support the refurbishment and reuse of electrical appliances. Our AI-powered assistance system helps employees in the remanufacturing process to quickly and accurately identify, classify, and evaluate used devices. By leveraging a dataset of over 30,000 images, our system can classify more than 5,000 different types of products with 97% accuracy, streamlining the circular economy process. This project demonstrates how targeted AI applications can solve practical challenges in sectors like manufacturing and logistics.
+The KIKERP project focuses on using AI to support the refurbishment and reuse of electrical appliances. Our AI-powered assistance system helps the end users and the employees in the remanufacturing process to quickly and accurately identify, classify, and evaluate used devices. By leveraging a dataset of over 30,000 images, our system can classify more than 5,000 different types of products with 97% accuracy, streamlining the circular economy process. This project demonstrates how targeted AI applications can solve practical challenges in sectors like manufacturing and logistics.
 
 You can learn more about our research in this recent [interview](https://www.fraunhofer.de/en/press/research-news/2025/juli-2025/ai-driven-lifecycle-management-for-end-of-life-household-appliances.html).
 
