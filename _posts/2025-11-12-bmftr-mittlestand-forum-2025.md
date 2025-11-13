@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Reflections and Takeaways from BMFTR's Mittlestand Forum"
+date: 2025-11-12
+---
+
 This week, I attended the Mittelstandsforum 2025 in Berlin, a flagship event organised by the German Federal Ministry of Research, Technology and Space (BMFTR). Focusing on funded innovation projects for SMEs (KMUs) under the programmes “KMU‑innovativ: IKT” and “KI4KMU”, the two-day forum brought together research institutions, technology providers, and SME end-users. It was a fantastic convergence of project results, networking opportunities, idea generation, and expert consultations via four dedicated AI-Service-Centres.
 
 ### The Backbone of the German Economy
