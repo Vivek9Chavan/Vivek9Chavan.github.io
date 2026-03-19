@@ -15,7 +15,7 @@ I’ll keep this list updated as I give more talks and publish more content.
 
 <ul class="spacious-list">
   <li>
-    <strong>Talk at the ML AfterMath Workshop, ECDF, Berlin</strong> in <em>October 2025</em><br />
+    <strong>Talk at the ML AfterMath Workshop, ECDF, Berlin</strong> in <em>March 2026</em><br />
     <em>IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants</em><br />
      Slides: <a href="{{ '/assets/IndEgo_Presentation_ML_AfterMath.pdf' | relative_url }}" target="_blank" rel="noopener">📑 PDF</a>
   </li>
