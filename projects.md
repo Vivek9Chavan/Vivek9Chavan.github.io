@@ -70,6 +70,8 @@ Circular Value Creation in White Goods via LCA and AI-driven 9Rs
 
 Summary: The traditional "take-make-dispose" model for household appliances is economically inefficient and environmentally unsustainable. Project CirculAIRe is a large-scale, international R&D initiative designed to solve this challenge by creating an intelligent, data-driven ecosystem that makes the circular economy for white goods profitable and scalable. While the project is broad, my core research focuses on developing the cutting-edge AI and computer vision technologies that serve as the "brain" and "eyes" of this new system.
 
+[CirculAIRe Project Page](https://vivekchavan.com/projects/CirculAIRe)
+
 ---
 
 ## KIKERP (2023-2026)
