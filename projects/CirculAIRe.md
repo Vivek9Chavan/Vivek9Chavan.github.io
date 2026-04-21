@@ -4,9 +4,7 @@ title: CirculAIRe
 permalink: /projects/CirculAIRe/
 ---
 
-# 🔄 CirculAIRe
-
-<img src="{{ '/projects/CirculAIRe_5.png' | relative_url }}" alt="CirculAIRe Logo" style="width:120px; margin-bottom:1em;">
+<img src="{{ '/projects/CirculAIRe_5.png' | relative_url }}" alt="CirculAIRe Logo" style="width:250px; margin-bottom:1em;">
 
 **Circular Value Creation in White Goods via LCA & AI-driven 9Rs**
 
