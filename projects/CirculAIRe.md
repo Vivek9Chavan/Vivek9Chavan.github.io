@@ -18,7 +18,7 @@ Despite a market projected to reach **$1.74 trillion by 2034**, the industry gen
 
 - **62 million tonnes of e-waste** were generated  
 - Recycling rates lag behind growth and are projected to drop to **~20% by 2030**  
-- Approximately **$91 billion in recoverable materials** is lost annually :contentReference[oaicite:0]{index=0}  
+- Approximately **$91 billion in recoverable materials** is lost annually.
 
 CirculAIRe aims to transform this system into a **data-driven circular ecosystem**, where products, components, and materials retain value across multiple lifecycles.
 
@@ -65,7 +65,7 @@ Critical decisions across the lifecycle:
 - Repair, Reuse, Refurbish, Remanufacture, Recycle  
 - Reduce, Repurpose, Recover, Rethink  
 
-This integration enables **data-driven, optimal decisions at every stage of the product lifecycle** :contentReference[oaicite:1]{index=1}.
+This integration enables **data-driven, optimal decisions at every stage of the product lifecycle**.
 
 ---
 
