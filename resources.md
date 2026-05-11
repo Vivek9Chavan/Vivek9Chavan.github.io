@@ -14,6 +14,12 @@ I’ll keep this list updated as I give more talks and publish more content.
 ## 🎤 Presentations
 
 <ul class="spacious-list">
+    <li>
+    <strong>Seminar at Technical University of Berlin</strong> in <em>May 2026</em><br />
+    <em>Vision-Language-Action Models for Industrial Robotic Applications</em><br />
+    Slides: <a href="{{ '/assets/VLA_Talk_May_2026.pdf' | relative_url }}" target="_blank" rel="noopener">📑 PDF</a>
+  </li>
+  
   <li>
     <strong>Talk at the ML AfterMath Workshop, ECDF, Berlin</strong> in <em>March 2026</em><br />
     <em>IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants</em><br />
