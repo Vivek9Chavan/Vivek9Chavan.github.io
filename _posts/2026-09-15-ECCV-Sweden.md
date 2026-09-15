@@ -129,7 +129,7 @@ ECCV 2026 featured three keynote speakers: *Kristen Grauman, Yann LeCun, and Jam
   Kristen Grauman (left) and Yann LeCun (right), two of the keynote speakers at ECCV 2026.
 </p>
 
-### Egocentric Vision and Embodied Intelligence
+### From Machine Perception to Human Intelligence
 *Speaker:* Kristen Grauman
 
 Kristen Grauman's talk was naturally one of the most relevant to my own research interests. Egocentric vision has developed far beyond the original problem of recognising actions from first-person video. The broader question is increasingly how an intelligent system can understand what a person is doing over long periods of time, relate first-person observations to the wider environment, learn from human demonstrations, and ultimately use that understanding to assist or act.
