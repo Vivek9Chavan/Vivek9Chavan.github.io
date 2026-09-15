@@ -6,10 +6,10 @@ date: 2026-09-15
 
 ### TL;DR
 
-- **A rapidly growing conference:** ECCV 2026 received 10,473 valid submissions from more than 37,000 authors, with 2,834 papers accepted.
-- **From perception toward the physical world:** A strong share of the work I encountered focused on downstream applications such as 3D understanding, embodied AI, robotics, autonomous systems, and multimodal reasoning.
-- **Competing visions for AI:** The keynote talks presented very different views of where the field should go next, with Yann LeCun offering an especially direct critique of several dominant AI paradigms.
-- **The experience:** The poster sessions remained one of the most valuable parts of the conference, both for discovering work and for direct conversations with researchers.
+- *A rapidly growing conference:* ECCV 2026 received 10,473 valid submissions from more than 37,000 authors, with 2,834 papers accepted.
+- *From perception toward the physical world:* A strong share of the work I encountered focused on downstream applications such as 3D understanding, embodied AI, robotics, autonomous systems, and multimodal reasoning.
+- *Competing visions for AI:* The keynote talks presented very different views of where the field should go next, with Yann LeCun offering an especially direct critique of several dominant AI paradigms.
+- *The experience:* The poster sessions remained one of the most valuable parts of the conference, both for discovering work and for direct conversations with researchers.
 
 ---
 
@@ -59,59 +59,47 @@ date: 2026-09-15
 
 </div>
 
-### Workshop Contributions
+## Workshops: A Snapshot of Emerging Research Directions
 
-<p>
-  <strong>1. A Framework for Egocentric and Exocentric Procedural Understanding via Temporal Segmentation and Semantic Abstraction</strong><br>
-  <em>ACVR 2026: 14th International Workshop on Assistive Computer Vision and Robotics</em><br>
-  <strong>Oral presentation</strong> · arXiv preprint coming soon ·
-  <a href="https://indego-assistant.github.io/">Project</a>
-</p>
+The first two days of ECCV were dedicated to workshops and tutorials. The workshop programme was remarkably broad, with more than 90 workshops covering almost every major direction in contemporary computer vision.
 
-<p>
-  <strong>2. Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation</strong><br>
-  <em>X-Reason: Visual Perception and Reasoning in the Interactable World</em><br>
-  <strong>Oral presentation</strong> ·
-  <a href="https://arxiv.org/abs/2609.05369">arXiv:2609.05369</a> ·
-  <a href="https://lnkd.in/extVwuw6">Project</a>
-</p>
+The official programme grouped them into themes including *3D Vision & Geometry, Embodied AI, Agents & World Models, Autonomous Driving, Humans, Faces & Behavior, Medical & Biological Vision, Recognition, Segmentation & Video, Generative Models & Content Creation, Multimodal & Foundation Models, Efficiency, Trustworthy & Responsible AI, Earth, Climate & Sustainability, Sensing & Wearables, Art, Culture & Heritage, and Theory & Emerging Directions*.
 
-<p>
-  <strong>3. What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies</strong><br>
-  <em>DexHAND: Observing and Acting as Dexterous Hands</em><br>
-  <a href="https://arxiv.org/abs/2609.05376">arXiv:2609.05376</a> ·
-  <a href="https://lnkd.in/extVwuw6">Project</a>
-</p>
+What stood out was how many workshops were no longer centred on a single classical vision task. Instead, many combined perception with larger questions around reasoning, interaction, generation, autonomy, physical understanding, and deployment.
 
-<p>
-  <strong>4. IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants</strong><br>
-  <em>Wearable AI Workshop: Towards Real-time Multimodal Contextual Assistants</em><br>
-  <a href="https://arxiv.org/abs/2511.19684">arXiv:2511.19684</a> ·
-  <a href="https://indego-dataset.github.io/">Project</a>
-</p>
+The *3D vision and geometry* programme was particularly extensive, covering areas such as open-world 3D scene understanding, SLAM, structure-from-motion, visual localization, digital twins, 3D generation, and geometric intelligence. At the same time, there was a substantial cluster around *embodied AI and world models*, including interactive agents, dexterous manipulation, multimodal reasoning in physical environments, human-scene interaction, and the evaluation and safety of world models.
 
-<p>
-  <strong>5. AI-based worker guidance in assembly and disassembly operations using multimodal ego/exo-centric data capture and structured task knowledge</strong><br>
-  <em>FOUND: Foundation Data for Industrial Tech Transfer</em><br>
-  <a href="https://arxiv.org/abs/2608.22617">arXiv:2608.22617</a> ·
-  CIRP Annals 2026 ·
-  <a href="https://indego-assistant.github.io/">Project</a>
-</p>
+Other parts of the programme reflected the increasing breadth of the field. Autonomous-driving workshops focused on foundation models, sim-to-real transfer, and robust autonomy; medical and biological vision covered foundation models, 3D medical imaging, video understanding, and data curation; while workshops on trustworthy AI addressed explainability, fairness, privacy, uncertainty, model unlearning, and visual misinformation.
 
+There was also strong representation from *generative and multimodal AI*, including audio-visual generation, human-AI co-creation, multimodal language models, evidence-aligned reasoning, and universal representations for perception and world modelling. At the other end of the spectrum, workshops on efficiency, empirical theory, quantum computer vision, ecology, climate, agriculture, cultural heritage, and wearable sensing showed just how widely computer vision is now being applied.
+
+### My Focus Areas
+
+Within this much broader programme, my own attention naturally gravitated toward the workshops closest to my research: *egocentric and wearable vision, procedural understanding, embodied reasoning, robot learning, and long-horizon vision-language-action systems*.
+
+This included workshops such as *Assistive Computer Vision and Robotics (ACVR)*, *Visual Perception and Reasoning in the Interactable World (X-Reason)*, *Observing and Acting as Dexterous Hands (DexHAND)*, *Wearables AI*, and *Foundation Data for Industrial Tech Transfer (FOUND)*.
+
+Across these sessions, several recurring themes stood out to me. One was the growing connection between *vision and action*: perception is increasingly being embedded within systems that must reason about task state, make decisions, and interact with the physical world.
+
+Another was the move toward *long-horizon understanding*. Rather than recognising isolated objects or short actions, many works considered extended activities, temporal structure, memory, procedural state, errors, and recovery. This was especially visible in work around egocentric perception and robotics, where understanding what has already happened can be as important as interpreting the current frame.
+
+A third theme was the growing role of *multimodal and first-person sensing*. Wearable cameras, language, gaze, audio, and other contextual signals are increasingly being combined to understand human activities and to provide supervision for assistive or robotic systems.
+
+For me, this was one of the main strengths of the workshop programme. The main conference gives a broad picture of where computer vision currently stands; the workshops often provide an earlier view of where specialised research communities are beginning to converge.
 
 ---
 
 ## Trends and Observations
 
-The scale of ECCV continues to grow considerably. ECCV 2026 received **10,473 valid submissions from more than 37,000 authors**. Of these, **2,834 papers were accepted**, corresponding to an acceptance rate of **27.1%**. Only **163 papers were selected for oral presentation**, or around **1.6% of valid submissions**, including 28 long orals and 135 short orals.
+The scale of ECCV continues to grow considerably. ECCV 2026 received *10,473 valid submissions from more than 37,000 authors*. Of these, *2,834 papers were accepted*, corresponding to an acceptance rate of *27.1%*. Only *163 papers were selected for oral presentation*, or around *1.6% of valid submissions*, including 28 long orals and 135 short orals.
 
 The longer-term trend is even more striking. ECCV received 2,439 submissions in 2018, 5,150 in 2020, 5,804 in 2022, 8,585 in 2024, and 10,473 in 2026. In eight years, the number of submissions has grown by more than four times.
 
-My personal impression from the poster halls and oral sessions was that an increasing amount of computer vision research is being connected to larger downstream systems. I repeatedly encountered work on **3D reconstruction, spatial understanding, robotics, embodied AI, autonomous systems, world models, egocentric perception, and multimodal reasoning**.
+My personal impression from the poster halls and oral sessions was that an increasing amount of computer vision research is being connected to larger downstream systems. I repeatedly encountered work on *3D reconstruction, spatial understanding, robotics, embodied AI, autonomous systems, world models, egocentric perception, and multimodal reasoning*.
 
 This does not mean that classical computer vision problems are disappearing. Rather, recognition, geometry, tracking, reconstruction, and representation learning are increasingly being placed inside systems that must reason about or interact with the physical world.
 
-The continued strength of **3D vision and geometry** was particularly noticeable. This was also reflected in the Best Paper candidate list, which included work on spatial reasoning, streaming 3D reconstruction, geometric representations, structure-from-motion, point-cloud registration, surface normal estimation, and computational imaging.
+The continued strength of *3D vision and geometry* was particularly noticeable. This was also reflected in the Best Paper candidate list, which included work on spatial reasoning, streaming 3D reconstruction, geometric representations, structure-from-motion, point-cloud registration, surface normal estimation, and computational imaging.
 
 For a field that is often discussed today mainly through the lens of foundation models and generative AI, ECCV was a useful reminder that understanding the geometry and physical structure of the visual world remains a central research problem.
 
@@ -119,7 +107,7 @@ For a field that is often discussed today mainly through the lens of foundation 
 
 ## Keynotes and Invited Talks
 
-ECCV 2026 featured three keynote speakers: **Kristen Grauman, Yann LeCun, and Jamie Shotton**. The two talks that stood out most to me were those by Kristen Grauman and Yann LeCun.
+ECCV 2026 featured three keynote speakers: *Kristen Grauman, Yann LeCun, and Jamie Shotton*. The two talks that stood out most to me were those by Kristen Grauman and Yann LeCun.
 
 <div style="display: flex; gap: 12px; margin-bottom: 0.5em;">
 
@@ -142,14 +130,14 @@ ECCV 2026 featured three keynote speakers: **Kristen Grauman, Yann LeCun, and Ja
 </p>
 
 ### Egocentric Vision and Embodied Intelligence
-**Speaker:** Kristen Grauman
+*Speaker:* Kristen Grauman
 
 Kristen Grauman's talk was naturally one of the most relevant to my own research interests. Egocentric vision has developed far beyond the original problem of recognising actions from first-person video. The broader question is increasingly how an intelligent system can understand what a person is doing over long periods of time, relate first-person observations to the wider environment, learn from human demonstrations, and ultimately use that understanding to assist or act.
 
 This direction appeared repeatedly throughout ECCV, not only in Grauman's keynote but also across workshops and papers on wearable AI, long-video understanding, multimodal perception, and embodied agents.
 
 ### World Models and a Provocative Research Agenda
-**Speaker:** Yann LeCun
+*Speaker:* Yann LeCun
 
 Yann LeCun's keynote focused on world models and his long-standing argument that today's dominant AI systems are still missing fundamental capabilities required for human-level intelligence. His emphasis was on systems that learn predictive models of the world and use them for reasoning, planning, and action.
 
@@ -162,7 +150,7 @@ Whether one agrees with all of these prescriptions or not, it was refreshing to 
 That tension between scaling today's successful systems and searching for fundamentally different architectures was one of the more interesting themes I took away from the conference.
 
 ### From Vision to Embodied AI
-**Speaker:** Jamie Shotton
+*Speaker:* Jamie Shotton
 
 The third keynote, by Jamie Shotton, continued another theme visible throughout ECCV: computer vision increasingly serves not only as a mechanism for interpreting images, but as the perceptual foundation of systems that must operate in the physical world.
 
@@ -173,16 +161,16 @@ The third keynote, by Jamie Shotton, continued another theme visible throughout 
 The ECCV 2026 Best Paper Award was given to:
 
 ### Heat Kernel Textures -- the Geodesic Gaussians That Do Not Splat
-**Simone Foti, Caner Korkmaz, Stefanos Zafeiriou, Tolga Birdal**
+*Simone Foti, Caner Korkmaz, Stefanos Zafeiriou, Tolga Birdal*
 
 The paper introduces an intrinsic representation for texturing triangular meshes using heat kernels on the surface itself. Instead of depending on a conventional UV parameterisation, appearance is represented directly over the mesh geometry.
 
 Two additional papers received Best Paper Honourable Mentions:
 
-- **LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows**
-- **Poppy: Polarization-Based Plug-and-Play Guidance for Enhancing Surface Normal Estimation**
+- *LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows*
+- *Poppy: Polarization-Based Plug-and-Play Guidance for Enhancing Surface Normal Estimation*
 
-Taken together, the recognised papers reinforced something that was already visible throughout the conference: **3D geometry and physical understanding remain major research directions even as the wider AI landscape moves toward increasingly large multimodal models.**
+Taken together, the recognised papers reinforced something that was already visible throughout the conference: *3D geometry and physical understanding remain major research directions even as the wider AI landscape moves toward increasingly large multimodal models.*
 
 ---
 
@@ -191,17 +179,17 @@ Taken together, the recognised papers reinforced something that was already visi
 ECCV's Koenderink Prize recognises papers from ten years earlier that have had a lasting impact on computer vision. Among the works recognised from ECCV 2016 were several papers that have become foundational references in modern vision.
 
 ### Perceptual Losses for Real-Time Style Transfer and Super-Resolution
-**Justin Johnson, Alexandre Alahi, Li Fei-Fei**
+*Justin Johnson, Alexandre Alahi, Li Fei-Fei*
 
 This work helped establish the idea of evaluating image similarity using deep feature representations rather than relying only on pixel-level losses. Variants of perceptual losses have since become standard across image synthesis, reconstruction, super-resolution, and generative modelling.
 
 ### SSD: Single Shot MultiBox Detector
-**Wei Liu et al.**
+*Wei Liu et al.*
 
 SSD became one of the defining single-stage detectors of the deep-learning era. By predicting classes and bounding boxes directly from multiple feature-map scales, it helped establish a fast and practical approach to object detection that influenced a decade of subsequent systems.
 
 ### Learning without Forgetting
-**Zhizhong Li, Derek Hoiem**
+*Zhizhong Li, Derek Hoiem*
 
 This paper is particularly relevant to my own research interests. It addressed catastrophic forgetting: the tendency of a neural network to lose performance on previously learned tasks when adapted to new ones.
 
@@ -230,6 +218,9 @@ A decade later, continual learning remains an active research problem. In fact, 
     <p>
       There is also a completely different quality to these discussions compared with simply reading the paper. You can ask why an experiment was designed in a certain way, what failed before the final method worked, which limitations the authors are most concerned about, or where they intend to take the work next.
     </p>
+   <p>
+    One minor annoyance was the zig-zag arrangement of the poster boards, used during both the workshops and the main conference. Compared with simple straight rows, it made some areas feel unnecessarily cramped and awkward to navigate once groups formed around neighbouring posters. It was a small logistical issue, but a surprisingly noticeable one during the busiest sessions.
+  </p>
   </div>
 
 </div>
@@ -328,7 +319,7 @@ Inside the conference, the atmosphere was lively throughout the main days. Poste
 
 ## Closing Remarks
 
-ECCV 2026 was particularly meaningful to me because it was the first major research conference I had attended for the **second time**.
+ECCV 2026 was particularly meaningful to me because it was the first major research conference I had attended for the *second time*.
 
 When I attended ECCV in Milan in 2024, I was at a different stage of my research. Returning two years later provided an interesting benchmark. The field has moved, my own research interests have evolved, and I participated in the conference differently this time.
 
