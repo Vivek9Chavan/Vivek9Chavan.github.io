@@ -1,4 +1,4 @@
-# Vivek Chavan — personal website
+# Vivek Chavan: personal website
 
 Jekyll portfolio at https://vivekchavan.com. The design uses warm off-white, muted green, regular-weight typography, and underlined author names.
 

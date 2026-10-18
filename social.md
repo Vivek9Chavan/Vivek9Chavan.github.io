@@ -12,7 +12,7 @@ permalink: /social/
 
 ## Public speaking
 
-*Shoshin* — a speech at Toastmasters, Bullring Speakers.
+*Shoshin*: a speech at Toastmasters, Bullring Speakers.
 
 [Watch on YouTube ↗](https://www.youtube.com/watch?v=fjoE9vHgKPQ)
 </div>

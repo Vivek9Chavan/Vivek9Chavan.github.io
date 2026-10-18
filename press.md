@@ -11,8 +11,6 @@ Interviews and coverage of my work in computer vision, robotics, and industrial 
 - Fraunhofer IPK · FUTUR 1/2026: [*A Clean Slate for White Goods*](https://www.ipk.fraunhofer.de/en/media/futur/futur-2026-1/a-clean-slate-for-white-goods.html)  
   <small>Feature on AI-assisted quality assessment and lifecycle management, including my work on the KIKERP project.</small>
 
----
-
 - Tagesschau: [*Wie KI den Weg in die Industrie finden soll*](https://www.tagesschau.de/inland/regional/berlin/rbb-ai-grid-summit-wie-ki-den-weg-in-die-industrie-finden-soll-100.html)  
   <small>National news coverage of the AI Grid Summit 2025 and industrial AI research, October 2025.</small>
 

@@ -171,7 +171,7 @@ This structure enables **end-to-end circular value creation**, from design to re
 
 ## Why This Matters
 
-The transition to circular systems is not just environmental — it is **economic and strategic**.
+The transition to circular systems is not just environmental; it is **economic and strategic**.
 
 CirculAIRe demonstrates that:
 
@@ -192,7 +192,7 @@ Approved (Planned Start: September 2026)
 
 ## Updates
 
-- April 2026 — Project approved for funding  
+- April 2026: Project approved for funding  
 - (Future updates will be posted here)
 
 ---

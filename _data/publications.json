@@ -121,6 +121,23 @@
     "note": ""
   },
   {
+    "id": "trustworthy-responsible-ai",
+    "year": 2026,
+    "title": "Trustworthy & Responsible AI: Turning Principles into Practice across Security, Explainability, and Fairness",
+    "authors": "Andrea Martin, Benjamin Herd, Catharina Kreiling, Danilo Brajovic, Jens Beier, Kirsten Rulf, Lena Münstermann, Lucy Czachowski, Manoj Kahdan, Mario Köpke, Maximilian Eder, Michael Hoche, Michael Krah, Paul Zenker, Philippe Krajsic, Rebekka Görge, Reinhard Stolle, Sönke Erdmann, Sofia Trojanowska, Syrko Kulas, Sven Trendow, Teresa Kutzner, Usani Lingamoorthy, Michael A. Hedderich, Vera Schmitt, Vivek Chavan",
+    "venue": "Bitkom · In collaboration with AI Grid",
+    "category": "White paper",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://www.bitkom.org/sites/main/files/2026-05/bitkom-guideline-trustworthy-and-responsible-ai.pdf"
+      }
+    ],
+    "summary": "Practical guidance for implementing trustworthy and responsible AI across security, explainability, and fairness.",
+    "selected": false,
+    "note": ""
+  },
+  {
     "id": "indego",
     "year": 2025,
     "title": "IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants",
@@ -262,7 +279,7 @@
   {
     "id": "green-incremental",
     "year": 2023,
-    "title": "Green incremental learning — Energy efficient ramp-up for AI-enhanced part recognition in reverse logistics",
+    "title": "Green incremental learning - Energy efficient ramp-up for AI-enhanced part recognition in reverse logistics",
     "authors": "Marian Schlüter, Robert Schimanek, Paul Koch, Clemens Briese, Vivek Chavan, Pinar Bilge, Franz Dietrich, Jörg Krüger",
     "venue": "Procedia CIRP · 116, 414–419",
     "category": "Journal",

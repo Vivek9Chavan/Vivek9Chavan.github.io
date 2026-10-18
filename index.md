@@ -4,7 +4,7 @@ title: Vivek Chavan
 home: true
 ---
 <section class="hero" aria-labelledby="intro-title">
-  <div class="hero-copy"><p class="eyebrow">Researcher · Berlin, Germany</p><h1 id="intro-title">Vivek Chavan<span class="name-dot">.</span></h1><p class="hero-field">Machine learning, computer vision<br>& <em>robotics.</em></p>
+  <div class="hero-copy"><p class="eyebrow">Researcher · Berlin, Germany</p><h1 id="intro-title">Vivek Chavan<span class="name-dot">.</span></h1><p class="hero-field">Machine learning, computer vision<br>& robotics.</p>
   <p class="intro">I study how intelligent systems can learn from human activity, understand procedures, and act reliably in the physical world.</p>
   <p class="affiliation">PhD candidate at <a href="https://www.tu.berlin/">TU Berlin</a><br>Research Associate at <a href="https://www.ipk.fraunhofer.de/">Fraunhofer IPK</a></p>
   <div class="hero-links"><a href="{{ '/publications/' | relative_url }}">Explore my research <span aria-hidden="true">↗</span></a><a href="{{ '/cv.html' | relative_url }}">Curriculum vitae <span aria-hidden="true">↗</span></a></div>
