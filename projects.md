@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Vivek Chavan- Resources
+title: Research & projects
 permalink: /projects/
 ---
 
-# 💡 Projects
+# Research & projects
 
-A summary of the projects I have worked on over the last few years.
+My work spans multimodal perception, procedural understanding, and learning systems for industrial and robotic applications.
+
+[Publications](/publications/) · [Research datasets](#datasets)
 
 ## IndEgo: Industrial Egocentric AI Research (2024-Present)
 
@@ -18,7 +20,7 @@ IndEgo is an internal research initiative spanning multiple federally and intern
 
 ---
 
-## DAADEM (Starting in late 2025)
+## DAADEM (2025–)
 Digitalisierte, assistierte und automatisierte Demontage
 
 Goal: Digitize and partially automate the disassembly of end-of-life vehicle parts (e.g., engine blocks) to support recycling, reuse, and sustainable manufacturing.
@@ -41,10 +43,10 @@ Collaborative AI Robotics for Safer, Smarter Healthcare Workflows
 
 Goal: Steri.Bot aims to reduce physical strain and infection exposure through an intelligent robot assistant that collaborates with humans via natural language and visual understanding.
 
-The project lies at the intersection of **egocentric AI**, **robotic manipulation**, and **multimodal learning**, areas central to my ongoing research.
+The project lies at the intersection of egocentric AI, robotic manipulation, and multimodal learning, areas central to my ongoing research.
 
 1. Egocentric and Exocentric Data for Learning by Demonstration
-- Uses **Project Aria smart glasses to capture *egocentric multimodal data* (video, gaze, audio, motion) from skilled staff.  
+- Uses Project Aria smart glasses to capture *egocentric multimodal data* (video, gaze, audio, motion) from skilled staff.  
 - Combines this with exocentric views from the *Cir.Log* camera system for multi-view imitation learning in grasping and process understanding.
 
 2. Vision–Language-Robotics Integration
@@ -65,8 +67,10 @@ Funded by the German Agency BMFTR.
 
 ---
 
-## CirculAIRe (Under Review, 2026)
+## CirculAIRe — research proposal
 Circular Value Creation in White Goods via LCA and AI-driven 9Rs 
+
+Proposal status was under review in the original project description.
 
 Summary: The traditional "take-make-dispose" model for household appliances is economically inefficient and environmentally unsustainable. Project CirculAIRe is a large-scale, international R&D initiative designed to solve this challenge by creating an intelligent, data-driven ecosystem that makes the circular economy for white goods profitable and scalable. While the project is broad, my core research focuses on developing the cutting-edge AI and computer vision technologies that serve as the "brain" and "eyes" of this new system.
 
@@ -108,3 +112,28 @@ This research has been funded by BMFTR in the framework of ReziProK (project ID 
 ----
 
 I have also worked on industry projects, which are covered by NDAs, and cannot be shared in detail publicly. This includes SMEs and large organisations across Europe, spanning automotive, electronics, energy, and white goods sectors.
+
+
+---
+
+<h2 id="datasets">Datasets</h2>
+
+### IndEgo
+Multimodal egocentric and exocentric recordings of industrial scenarios and collaborative work. Accepted in the NeurIPS 2025 Datasets & Benchmarks track.
+
+[Project, paper & data ↗](https://vivekchavan.com/IndEgo/)
+
+### MVIP
+A dataset for industrial part recognition with multiple views and modalities.
+
+[Dataset & documentation ↗](https://fordatis.fraunhofer.de/handle/fordatis/358)
+
+### InVar-100
+Industrial object recognition across varied environmental contexts.
+
+[Hugging Face dataset ↗](https://huggingface.co/datasets/vivek9chavan/InVar-100)
+
+### STEP-ERR · Work in progress
+Paired correct and erroneous long-horizon robot executions, with step-level task-state annotations for studying error detection, tracking, and recovery.
+
+[Related procedural reasoning work ↗](https://arxiv.org/abs/2609.05369)

@@ -1,0 +1,25 @@
+name: Validate Jekyll site
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - name: Build site
+        run: bundle exec jekyll build --strict_front_matter --trace
+      - name: Check generated pages and local assets
+        run: python3 scripts/check_site.py
+      - name: Save reviewable site build
+        uses: actions/upload-artifact@v4
+        with:
+          name: website-preview
+          path: _site
+          retention-days: 14

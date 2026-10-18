@@ -1,41 +1,18 @@
 ---
 layout: default
-title: Vivek Chavan- Social
+title: Elsewhere
 permalink: /social/
 ---
+<header class="page-heading"><p class="eyebrow">Beyond research</p><h1>Elsewhere<span class="name-dot">.</span></h1><p>Public speaking, community, and things I share outside the papers.</p></header>
+<div class="prose" markdown="1">
 
-# 🌐 Social
+## Find me online
 
-Updates, media, and creative work I share outside of research.  
+[LinkedIn](https://www.linkedin.com/in/vivek9chavan/) · [GitHub](https://github.com/vivek9chavan) · [X / Twitter](https://x.com/vivek9chavan) · [YouTube](https://www.youtube.com/@vivekchavandotcom)
 
----
+## Public speaking
 
-## 🎥 YouTube
+*Shoshin* — a speech at Toastmasters, Bullring Speakers.
 
-<ul class="spacious-list">
-  <li>
-    <strong>Channel</strong><br/>
-    <a href="https://www.youtube.com/@vivekchavandotcom" target="_blank" rel="noopener">Visit my YouTube Channel</a>
-  </li>
-
-  <li>
-    <strong>Shoshin</strong>- <em>Speech at Toastmasters, Bullring Speakers</em><br/>
-    <a href="https://www.youtube.com/watch?v=fjoE9vHgKPQ" target="_blank" rel="noopener">Watch on YouTube</a>
-  </li>
-</ul>
----
-
-## 📸 Photography: To be updated soon
-
-<ul class="spacious-list">
-  <li>
-    <strong>Instagram</strong><br/>
-    <a href="https://www.instagram.com/YOURHANDLE" target="_blank" rel="noopener">Follow on Instagram</a>
-  </li>
-
-  <!-- Example placeholder -->
-  <li>
-    <strong>Photo Essay</strong>- <em> Berlin</em><br/>
-    <a href="https://yourphotoalbumlink" target="_blank" rel="noopener">View Album</a>
-  </li>
-</ul>
+[Watch on YouTube ↗](https://www.youtube.com/watch?v=fjoE9vHgKPQ)
+</div>

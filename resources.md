@@ -4,37 +4,37 @@ title: Vivek Chavan- Resources
 permalink: /resources/
 ---
 
-# 📦 Resources
+# Resources
 
 Here you’ll find slides and materials from my talks and presentations.  
 I’ll keep this list updated as I give more talks and publish more content.
 
 ---
 
-## 🎤 Presentations
+## Presentations
 
 <ul class="spacious-list">
     <li>
-    <strong>Seminar at Technical University of Berlin</strong> in <em>May 2026</em><br />
+    <em>Seminar at Technical University of Berlin</em> in <em>May 2026</em><br />
     <em>Vision-Language-Action Models for Industrial Robotic Applications</em><br />
-    Slides: <a href="{{ '/assets/VLA_Talk_May_2026.pdf' | relative_url }}" target="_blank" rel="noopener">📑 PDF</a>
+    Slides: <a href="{{ '/assets/VLA_Talk_May_2026.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
   </li>
   
   <li>
-    <strong>Talk at the ML AfterMath Workshop, ECDF, Berlin</strong> in <em>March 2026</em><br />
+    <em>Talk at the ML AfterMath Workshop, ECDF, Berlin</em> in <em>March 2026</em><br />
     <em>IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants</em><br />
-     Slides: <a href="{{ '/assets/IndEgo_Presentation_ML_AfterMath.pdf' | relative_url }}" target="_blank" rel="noopener">📑 PDF</a>
+     Slides: <a href="{{ '/assets/IndEgo_Presentation_ML_AfterMath.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
   </li>
   
   <li>
-    <strong>Talk at AI Grid Summit 2025, ECDF, Berlin</strong> in <em>October 2025</em><br />
+    <em>Talk at AI Grid Summit 2025, ECDF, Berlin</em> in <em>October 2025</em><br />
     <em>Continual Learning in Real-World Scenarios</em><br />
-    Slides: <a href="{{'/assets/AI_Grid_Summit_2025_Continual_Learning_ICCV.pdf' | relative_url }}" target="_blank" rel="noopener">📑 PDF</a>
+    Slides: <a href="{{'/assets/AI_Grid_Summit_2025_Continual_Learning_ICCV.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
   </li>
   
   <li>
-    <strong>Talk at ABS Treffen, Aachen</strong> in <em>June 2025</em><br />
+    <em>Talk at ABS Treffen, Aachen</em> in <em>June 2025</em><br />
     <em>Sehen, Verstehen, Unterstützen: Video-KI mit Ego- und Exo-Perspektiven für die Produktion der Zukunft</em><br />
-    Slides: <a href="{{'/assets/Video-KI_f%C3%BCr_die_Produktion_der_Zukunft_IPK_Vivek.pdf' | relative_url }}" target="_blank" rel="noopener">📑 PDF</a>
+    Slides: <a href="{{'/assets/Video-KI_f%C3%BCr_die_Produktion_der_Zukunft_IPK_Vivek.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
   </li>
 </ul>
