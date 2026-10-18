@@ -93,7 +93,6 @@ b {
 em {
   font-weight: 400;
 }
-.hero-field em,
 .research-strip h2 em {
   font-family: var(--serif);
 }
@@ -212,10 +211,6 @@ small,
   line-height: 1.35;
   margin-bottom: 25px;
   letter-spacing: -0.025em;
-}
-.hero-field em {
-  font-size: 29px;
-  color: var(--accent);
 }
 .intro {
   font-size: 16px;
@@ -819,9 +814,6 @@ small,
   .hero-field {
     font-size: 20px;
   }
-  .hero-field em {
-    font-size: 23px;
-  }
   .hero .intro {
     font-size: 14px;
   }
@@ -897,9 +889,6 @@ small,
   }
   .hero-field {
     font-size: 24px;
-  }
-  .hero-field em {
-    font-size: 27px;
   }
   .hero .intro {
     font-size: 15px;

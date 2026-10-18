@@ -67,7 +67,7 @@ Funded by the German Agency BMFTR.
 
 ---
 
-## CirculAIRe — research proposal
+## CirculAIRe: research proposal
 Circular Value Creation in White Goods via LCA and AI-driven 9Rs 
 
 Proposal status was under review in the original project description.
