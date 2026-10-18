@@ -3,23 +3,6 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-
-# ✉️ Contact
-
-Please use this form to reach me about collaborations, openings, or speaking.  
-_No public email here to keep spam low._
-
-<div style="max-width: 800px;">
-  <iframe
-    src="https://docs.google.com/forms/d/e/1FAIpQLScbPU-rdKIzL6vbgc57uKc-kBSQ86cRSIETJrKFMHb65do2hw/viewform?embedded=true"
-    width="100%"
-    height="1100"
-    frameborder="0"
-    marginheight="0"
-    marginwidth="0"
-    loading="lazy"
-  >Loading…</iframe>
-</div>
-
-If the form doesn’t load, use the direct link:  
-<a href="https://forms.gle/Ff7pKSBdPXRPnG2U6" target="_blank" rel="noopener">Open the contact form ↗</a>
+<header class="page-heading"><p class="eyebrow">Start a conversation</p><h1>Let’s connect<span class="name-dot">.</span></h1><p>For research collaborations, speaking invitations, and student projects.</p></header>
+<div class="contact-intro"><p>You can reach me through the form below or <a href="https://www.linkedin.com/in/vivek9chavan/">LinkedIn ↗</a>.</p><a class="text-link" href="https://forms.gle/Ff7pKSBdPXRPnG2U6">Open the form in a new page ↗</a></div>
+<div class="contact-form"><iframe title="Contact Vivek Chavan" src="https://docs.google.com/forms/d/e/1FAIpQLScbPU-rdKIzL6vbgc57uKc-kBSQ86cRSIETJrKFMHb65do2hw/viewform?embedded=true" width="100%" height="1100" loading="lazy"></iframe></div>

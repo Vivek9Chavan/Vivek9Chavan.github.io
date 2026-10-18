@@ -1,31 +1,22 @@
-theme: jekyll-theme-cayman
-markdown: kramdown
-
 title: Vivek Chavan
-description: PhD researcher in Industrial AI, Egocentric Vision, and Robotics
-
+description: Research in multimodal perception, procedural understanding, robot learning, and continual learning.
+url: "https://vivekchavan.com"
+baseurl: ""
+markdown: kramdown
+timezone: Europe/Berlin
+permalink: /blog/:title/
+future: false
+exclude: [README.md, Gemfile, Gemfile.lock, vendor, scripts]
 nav_links:
-  - title: "Home"
-    url: "/"
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Resources"
-    url: "/resources/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Openings"
-    url: "/openings/"
-  - title: "Social"
-    url: "/social/"
-  - title: "Press"
-    url: "/press/"
-  - title: "Contact"
-    url: "/contact/"
-
+  - {title: Home, url: /}
+  - {title: Research, url: /projects/}
+  - {title: Publications, url: /publications/}
+  - {title: Blog, url: /blog/}
+  - {title: About, url: /about/}
+  - {title: Press, url: /press/}
+  - {title: Openings, url: /openings/}
+  - {title: Resources, url: /resources/}
+  - {title: Contact, url: /contact/}
 defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: /blog/:title/
-future: true
+  - scope: {path: "", type: posts}
+    values: {layout: post, permalink: "/blog/:title/"}

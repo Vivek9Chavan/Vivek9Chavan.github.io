@@ -1,0 +1,351 @@
+[
+  {
+    "id": "procedural-memory",
+    "year": 2026,
+    "title": "A Framework for Egocentric and Exocentric Procedural Understanding via Temporal Segmentation and Semantic Abstraction",
+    "authors": "Vivek Chavan, Jörg Krüger",
+    "venue": "ECCV 2026 · ACVR Workshop · Oral",
+    "category": "Workshop",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2610.00069"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2610.00069"
+      }
+    ],
+    "summary": "Turning long workplace videos into compact, evidence-linked procedural memory.",
+    "selected": false,
+    "note": "Non-archival workshop abstract; public preprint."
+  },
+  {
+    "id": "what-matters",
+    "year": 2026,
+    "title": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies",
+    "authors": "Vivek Chavan, Pengtao Xie, Yahuan Shi, Oliver Heimann, Kevin Haninger, Jörg Krüger",
+    "venue": "ECCV 2026 · DexHAND Workshop",
+    "category": "Workshop",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.05376"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2609.05376"
+      },
+      {
+        "label": "Project",
+        "url": "https://robotics-imitation-learning.github.io/"
+      }
+    ],
+    "summary": "Understanding why robot policies select the wrong object or destination, and improving robustness to visual distractors.",
+    "selected": true,
+    "note": "Non-archival extended abstract. An extended manuscript is under review at RA-L."
+  },
+  {
+    "id": "neurosymbolic",
+    "year": 2026,
+    "title": "Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation",
+    "authors": "Vivek Chavan, Yahuan Shi, Oliver Heimann, Kevin Haninger, Jörg Krüger",
+    "venue": "ECCV 2026 · X-Reason Workshop · Oral",
+    "category": "Workshop",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.05369"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2609.05369"
+      },
+      {
+        "label": "Project",
+        "url": "https://robotics-imitation-learning.github.io/"
+      }
+    ],
+    "summary": "Combining VLA policies with task graphs and procedural memory for multi-step manipulation.",
+    "selected": true,
+    "note": "Non-archival extended abstract; public preprint."
+  },
+  {
+    "id": "worker-guidance",
+    "year": 2026,
+    "title": "AI-based worker guidance in assembly and disassembly operations using multimodal ego/exo-centric data capture and structured task knowledge",
+    "authors": "Vivek Chavan, Jörg Krüger",
+    "venue": "CIRP Annals · 75(1), 19–23",
+    "category": "Journal",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1016/j.cirp.2026.04.066"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2608.22617"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2608.22617"
+      },
+      {
+        "label": "Project",
+        "url": "https://indego-assistant.github.io/"
+      }
+    ],
+    "summary": "Extracting reusable task knowledge from expert demonstrations to support assembly and disassembly.",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "white-goods",
+    "year": 2026,
+    "title": "Visual Quality Score Assessment of Large White Goods in Remanufacture with Multi-View Deformable-DETR",
+    "authors": "Paul Koch, Vivek Chavan",
+    "venue": "arXiv preprint",
+    "category": "Preprint",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2606.14556"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2606.14556"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "indego",
+    "year": 2025,
+    "title": "IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants",
+    "authors": "Vivek Chavan, Y. Imgrund, T. L. Dao, S. Bai, B. Wang, Z. Lu, Oliver Heimann, Jörg Krüger",
+    "venue": "NeurIPS 2025 · Datasets & Benchmarks",
+    "category": "Conference",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://neurips.cc/virtual/2025/poster/121501"
+      },
+      {
+        "label": "Project & data",
+        "url": "https://vivekchavan.com/IndEgo/"
+      }
+    ],
+    "summary": "Multimodal ego/exo recordings of industrial work, supporting research on procedural understanding and egocentric assistants.",
+    "selected": true,
+    "note": ""
+  },
+  {
+    "id": "feeling-machines",
+    "year": 2025,
+    "title": "Feeling Machines: Ethics, Culture, and the Rise of Emotional AI",
+    "authors": "Vivek Chavan, A. Cenaj, S. Shen, A. Bar, S. Binwani, T. Del Becaro, M. Funk, et al.",
+    "venue": "arXiv preprint",
+    "category": "Preprint",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2506.12437"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2506.12437"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "industrial-inspection",
+    "year": 2024,
+    "title": "On the Application of Egocentric Computer Vision to Industrial Inspection",
+    "authors": "Vivek Chavan, Oliver Heimann, Jörg Krüger",
+    "venue": "ECCV 2024 Workshops",
+    "category": "Workshop",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-92805-5_1"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2406.07738"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2406.07738"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": "The earlier preprint is titled “On the Application of Egocentric Computer Vision to Industrial Scenarios”."
+  },
+  {
+    "id": "system-1-2",
+    "year": 2024,
+    "title": "A System 1 and System 2 Perspective on Continual Learning for Practical Implementation",
+    "authors": "Vivek Chavan, Oliver Heimann, Jörg Krüger",
+    "venue": "ECCV 2024 Workshops",
+    "category": "Workshop",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-91578-9_25"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "active-data",
+    "year": 2024,
+    "title": "Active Data Collection and Management for Real-World Continual Learning via Pretrained Oracle",
+    "authors": "Vivek Chavan, Paul Koch, Marian Schlüter, Clemens Briese, Jörg Krüger",
+    "venue": "CVPR 2024 Workshops · CLVision",
+    "category": "Workshop",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/html/Chavan_Active_Data_Collection_and_Management_for_Real-World_Continual_Learning_via_CVPRW_2024_paper.html"
+      },
+      {
+        "label": "Supplement",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/supplemental/Chavan_Active_Data_Collection_CVPRW_2024_supplemental.pdf"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "synthetic-data",
+    "year": 2024,
+    "title": "Efficiently Linking Real Scenes with Synthetic Data Generation for AI-Based Cognitive Robotics and Computer Vision Applications",
+    "authors": "Paul Koch, Vivek Chavan, André Sers, Adem Karakurt, Paul Hofmann, Mohamad Zaher Ziadeh, Jörg Krüger",
+    "venue": "MHI Colloquium · 257–266",
+    "category": "Conference",
+    "links": [
+      {
+        "label": "Scholar record",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jeREfqcAAAAJ&citation_for_view=jeREfqcAAAAJ:roLk4NBRz8UC"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "realistic-continual",
+    "year": 2023,
+    "title": "Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint",
+    "authors": "Vivek Chavan, Paul Koch, Marian Schlüter, Clemens Briese",
+    "venue": "ICCV 2023 · 11472–11484",
+    "category": "Conference",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://www.computer.org/csdl/proceedings-article/iccv/2023/071800l1472/1TJiKOmxmJG"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "green-incremental",
+    "year": 2023,
+    "title": "Green incremental learning — Energy efficient ramp-up for AI-enhanced part recognition in reverse logistics",
+    "authors": "Marian Schlüter, Robert Schimanek, Paul Koch, Clemens Briese, Vivek Chavan, Pinar Bilge, Franz Dietrich, Jörg Krüger",
+    "venue": "Procedia CIRP · 116, 414–419",
+    "category": "Journal",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://publica.fraunhofer.de/entities/publication/66e46463-cfa9-4d7a-91f6-f391cceb788e"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "incremental-parts",
+    "year": 2023,
+    "title": "Image-Based Incremental Learning for Part Recognition of Used Automotive Cores in Reverse Logistics",
+    "authors": "Clemens Briese, Vivek Chavan, Marian Schlüter, J. Lehr, O. Kröger",
+    "venue": "International Workshop on Autonomous Remanufacturing · 189–199",
+    "category": "Workshop",
+    "links": [
+      {
+        "label": "Scholar record",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jeREfqcAAAAJ&citation_for_view=jeREfqcAAAAJ:IjCSPb-OGe4C"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "mvip",
+    "year": 2023,
+    "title": "MVIP: A Dataset for Industrial Part Recognition",
+    "authors": "Paul Koch, Marian Schlüter, Clemens Briese, Vivek Chavan",
+    "venue": "Fraunhofer Fordatis · Dataset",
+    "category": "Dataset",
+    "links": [
+      {
+        "label": "Dataset & paper",
+        "url": "https://fordatis.fraunhofer.de/handle/fordatis/358"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "invar",
+    "year": 2023,
+    "title": "InVar-100: Industrial Objects in Varied Contexts Dataset",
+    "authors": "J. Lehr, Vivek Chavan, Paul Koch, Marian Schlüter, Clemens Briese",
+    "venue": "Dataset",
+    "category": "Dataset",
+    "links": [
+      {
+        "label": "Dataset",
+        "url": "https://huggingface.co/datasets/vivek9chavan/InVar-100"
+      },
+      {
+        "label": "Scholar record",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jeREfqcAAAAJ&citation_for_view=jeREfqcAAAAJ:d1gkVwhDpl0C"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  },
+  {
+    "id": "water-ingress",
+    "year": 2017,
+    "title": "Water Ingress Analysis and Splash Protection Evaluation for Vehicle Wading Using Non-Classical CFD Simulation",
+    "authors": "Prashant Khapane, Vivek Chavan, U. Ganeshwade",
+    "venue": "SAE International Journal of Passenger Cars – Mechanical Systems · 10(1)",
+    "category": "Journal",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.4271/2017-01-1327"
+      }
+    ],
+    "summary": "",
+    "selected": false,
+    "note": ""
+  }
+]

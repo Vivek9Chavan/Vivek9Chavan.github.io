@@ -1,0 +1,9 @@
+<article class="publication" id="{{ paper.id }}" data-category="{{ paper.category }}" data-year="{{ paper.year }}">
+<div class="publication-meta"><span>{{ paper.year }}</span><span>{{ paper.category }}</span></div>
+<div class="publication-body"><p class="venue">{{ paper.venue }}</p><h3><a href="{{ paper.links.first.url }}">{{ paper.title }}</a></h3>
+<p class="authors">{{ paper.authors | replace: 'Vivek Chavan', '<span class="author-self">Vivek Chavan</span>' }}</p>
+{% if include.selected %}<p class="paper-summary">{{ paper.summary }}</p>{% endif %}
+{% if paper.note != '' %}<p class="publication-note">{{ paper.note }}</p>{% endif %}
+<div class="paper-links">{% for link in paper.links %}<a href="{{ link.url }}">{{ link.label }} <span aria-hidden="true">↗</span></a>{% endfor %}</div>
+</div>
+</article>
